@@ -3,5 +3,19 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', ext
 }});
 
 var siteConfig = {
-  rootPredicate: { type: 'equals', key: 'taxonKey', value: 5 }
+  rootPredicate: {
+    "type": "and",
+    "predicates": [
+   		{
+        "type":"in",
+        "key": "countryCode",
+        "values": ["BN", "KH", "ID", "LA", "MY", "MM", "PH", "SG", "TH", "VN"]
+      },
+      {
+        "type": "equals",
+        "key": "notIssues",
+        "value": "COUNTRY_COORDINATE_MISMATCH"
+      }
+    ]
+  }
 };
