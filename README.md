@@ -4,7 +4,7 @@
 
 # GBIF Hosted Portal: hp-asean
 
-This Jekyll website, **[hp-asean](https://asean.hp.gbif.org/)**, makes use of a theme and biodiversity widgets developed by the GBIF network.
+This Jekyll website, **[hp-asean](https://asean.hp.gbif-staging.org/)**, makes use of a theme and biodiversity widgets developed by the GBIF network.
 
 You can find information on editing this site and more on [gbif/hosted-portals](https://github.com/gbif/hosted-portals)
 
