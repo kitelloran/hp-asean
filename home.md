@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: ACB Hosted Portal
 description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
-background: https://bim-mirror.aseanbiodiversity.org/dashboard/hprepo/Ho_Phooi_Leng.jpeg
+background: https://bim-mirror.aseanbiodiversity.org/dashboard/hprepo/original.jpeg
 imageLicense: |
   *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
 cta:
