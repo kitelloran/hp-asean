@@ -2,7 +2,7 @@
 lang-ref: home
 layout: home
 title: ACB Hosted Portal
-description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
+description: The ASEAN Centre for Biodiversity Hosted Portal serves as a regional gateway to openly accessible biodiversity data from the ten ASEAN Member States. Developed in partnership with the Global Biodiversity Information Facility (GBIF), this portal supports the mobilization, sharing, and use of biodiversity data to inform science, policy, and conservation in Southeast Asia. Managed by the ASEAN Centre for Biodiversity (ACB), the portal aims to strengthen regional collaboration, promote data standards, and support national and regional biodiversity strategies aligned with the Kunming-Montreal Global Biodiversity Framework.
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/58912610/original.jpeg
 imageLicense: |
   *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
