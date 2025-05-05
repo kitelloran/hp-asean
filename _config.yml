@@ -50,6 +50,7 @@ siteMeasurements:
   GA_ID: "G-XXXXXXXX" # Your Google analytics ID. Sometimes they start with UA-XXXXX-X other times with G-XXXXXXXX depending on how you set it up
   termsVersion: "2021-07-06" # A version number for your terms. If you change this, then the users will see the popup again asking them to confirm/reject anew.
 
+useSharedLibrary: true
 algae:
   rootLang: en
   # latestPostLimit: 2
@@ -95,25 +96,87 @@ exclude:
 permalink: pretty # will strip extensions like .html from urls
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # an empty string here means all files in the project
     values:
       layout: "page"
       lang: en
-  -
-    scope:
+  - scope:
       path: "_posts" # an empty string here means all files in the project
     values:
       layout: "post"
       permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
-  -
-    scope:
+  - scope:
       path: ""
     values:
       lang: en
-  -
-    scope:
-      path: "da/"
+  - scope:
+      path: "mm/"
     values:
-      lang: da
+      lang: mm
+  - scope:
+      path: "_posts/mm"
+    values:
+      layout: "post"
+      permalink: "/mm/post/:year/:slug/"
+      lang: mm
+  - scope:
+      path: "kh/"
+    values:
+      lang: kh
+  - scope:
+      path: "_posts/kh"
+    values:
+      layout: "post"
+      permalink: "/kh/post/:year/:slug/"
+      lang: kh
+  - scope:
+      path: "id/"
+    values:
+      lang: id
+  - scope:
+      path: "_posts/id"
+    values:
+      layout: "post"
+      permalink: "/id/post/:year/:slug/"
+      lang: id
+  - scope:
+      path: "la/"
+    values:
+      lang: la
+  - scope:
+      path: "_posts/la"
+    values:
+      layout: "post"
+      permalink: "/la/post/:year/:slug/"
+      lang: la
+  - scope:
+      path: "my/"
+    values:
+      lang: my
+  - scope:
+      path: "_posts/my"
+    values:
+      layout: "post"
+      permalink: "/my/post/:year/:slug/"
+      lang: my
+  - scope:
+      path: "th/"
+    values:
+      lang: th
+  - scope:
+      path: "_posts/th"
+    values:
+      layout: "post"
+      permalink: "/th/post/:year/:slug/"
+      lang: th
+  - scope:
+      path: "vn/"
+    values:
+      lang: vn
+  - scope:
+      path: "_posts/vn"
+    values:
+      layout: "post"
+      permalink: "/vn/post/:year/:slug/"
+      lang: vn

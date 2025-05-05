@@ -1,0 +1,34 @@
+# Footer content is organized in columns.
+# You can also add a small print license statement at the bottom.
+
+# Columns (the more you add, the narrower they will be)
+columns:
+  - name: မိတ်ဖက်များ
+    links:
+    - text: စီမံကိန်းမိတ်ဖက် ၁
+      href: http://example.com
+    - text: စီမံကိန်းမိတ်ဖက် ၂
+      href: http://example.com
+
+  - name: ကုဒ်
+    description: | # Can be Markdown
+      ဤစီမံကိန်းသည် အခမဲ့ရရှိနိုင်သော ပရိုဂရမ်ဖြစ်ပါသည်။ အောက်ခြေပိုင်းကို စိတ်ကြိုက်ပြင်ဆင်ရန် `_data/footer.yml` ကို ကြည့်ပါ။
+
+  - name: ဆက်သွယ်ရန်
+    description: | # Can be Markdown
+      လူမှုကွန်ရက်သင်္ကေတများကို `_config.yml` တွင် သတ်မှတ်ထားပါသည်
+      * လမ်းအမည်
+      * စာတိုက်သင်္ကေတ ၁၂၃၄
+      * နိုင်ငံ
+    connectIcons: true
+
+  # နမူနာ
+  #- name: အဖွဲ့အမည်
+  #  description: |
+  #    လိုအပ်ပါက ဖော်ပြချက်ထည့်သွင်းနိုင်သည်။ Markdown သုံးနိုင်သည်
+  #  links: # optional as well
+  #  - text: လင့်ခေါင်းစဉ်
+  #    href: http://example.com
+  #  - text: လင့်ခေါင်းစဉ် ၂
+  #    href: http://example2.com
+  #  connectIcons: true # optional - show social icons (defined in _config.yml) 

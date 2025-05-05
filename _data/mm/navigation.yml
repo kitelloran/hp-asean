@@ -1,0 +1,20 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: အကြောင်း
+  href: /mm/about
+- text: အချက်အလက်များ
+  href: /mm/data
+- text: လင့်များ
+  menu: # Dropdown menu (one level deep only)
+  - text: အခြေခံအပြင်အဆင်သရုပ်ပြ
+    href: https://hp-base-theme.gbif-staging.org/
+  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+  - text: "စာရွက်စာတမ်းများ" # Title for block of menu items
+  - text: Jekyll စာရွက်စာတမ်းများ
+    href: https://jekyllrb.com/docs/pages/
+  - text: Markdown သင်ခန်းစာ
+    href: https://guides.github.com/features/mastering-markdown/
+  - text: YAML သင်ခန်းစာ
+    href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
+- text: သတင်းများ
+  href: /mm/news/ 

@@ -1,0 +1,24 @@
+columns:
+  - name: Đối tác
+    links:
+    - text: GBIF
+      href: https://www.gbif.org
+    - text: ASEAN
+      href: https://asean.org
+    - text: ACB
+      href: https://aseanbiodiversity.org
+  
+  - name: Liên hệ
+    description: | # Can be Markdown
+      Liên hệ với chúng tôi qua
+      
+      Email: [info@gbif-asean.org](mailto:info@gbif-asean.org)
+      
+      Điện thoại: [+84 24 XXX XXXX](tel:+8424XXXXXXX)
+    
+  - name: Mạng xã hội
+    description: | # Can be Markdown
+      Theo dõi chúng tôi tại
+      * [Facebook](https://facebook.com)
+      * [Twitter](https://twitter.com)
+      * [Instagram](https://instagram.com) 

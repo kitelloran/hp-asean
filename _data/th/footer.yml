@@ -1,0 +1,24 @@
+columns:
+  - name: พันธมิตร
+    links:
+    - text: GBIF
+      href: https://www.gbif.org
+    - text: ASEAN
+      href: https://asean.org
+    - text: ACB
+      href: https://aseanbiodiversity.org
+  
+  - name: ติดต่อ
+    description: | # Can be Markdown
+      ติดต่อเราผ่าน
+      
+      อีเมล: [info@gbif-asean.org](mailto:info@gbif-asean.org)
+      
+      โทรศัพท์: [+66 2 XXX XXXX](tel:+662XXXXXXX)
+    
+  - name: สื่อสังคม
+    description: | # Can be Markdown
+      ติดตามเราที่
+      * [Facebook](https://facebook.com)
+      * [Twitter](https://twitter.com)
+      * [Instagram](https://instagram.com) 

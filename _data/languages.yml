@@ -1,5 +1,32 @@
 en:
   label: English
-  icon:  # optional
-da:
-  label: Dansk
+  archive_permalink: /news/
+  widgetLocale: en
+mm:
+  label: Burmese
+  archive_permalink: /mm/news/
+  widgetLocale: es
+kh:
+  label: Cambodian
+  archive_permalink: /kh/news/
+  widgetLocale: fr
+id:
+  label: Indonesian
+  archive_permalink: /id/news/
+  widgetLocale: en
+la:
+  label: Lao
+  archive_permalink: /la/news/
+  widgetLocale: en
+my:
+  label: Malay
+  archive_permalink: /my/news/
+  widgetLocale: en
+th:
+  label: Thai
+  archive_permalink: /th/news/
+  widgetLocale: en
+vn:
+  label: Vietnamese
+  archive_permalink: /vn/news/
+  widgetLocale: en
