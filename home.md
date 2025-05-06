@@ -2,7 +2,7 @@
 lang-ref: home
 layout: home
 title: ACB Hosted Portal
-description: The ASEAN Centre for Biodiversity Hosted Portal serves as a regional gateway to openly accessible biodiversity data from the ten ASEAN Member States. 
+description: xThe ASEAN Centre for Biodiversity Hosted Portal serves as a regional gateway to openly accessible biodiversity data from the ten ASEAN Member States. 
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/58912610/original.jpeg
 imageLicense: |
   *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
