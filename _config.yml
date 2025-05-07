@@ -42,7 +42,7 @@ privacy:
   name: Kit Elloran
   domain: https://www.aseanbiodiversity.org
   contactEmail: cbelloran@aseanbiodiversity.org
-  helpdeskEmail: belloran@aseanbiodiversity.org
+  helpdeskEmail: cbelloran@aseanbiodiversity.org
 
 # The text for the terms can be changed by adding translations for 'terms', 'acceptTerms' and 'rejectTerms' in `/_data/translations.yml`.
 siteMeasurements:
