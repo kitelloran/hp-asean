@@ -13,6 +13,7 @@ cta:
   - text: About
     href: /about
 permalink: /
+height: 70vh
 ---
 
 Edit `/home.md` to change the text.
