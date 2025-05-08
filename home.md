@@ -1,7 +1,6 @@
 ---
 lang-ref: home 
 layout: home
-klass: home
 title: ACB
 description: The ASEAN Centre for Biodiversity serves as a regional gateway to openly accessible biodiversity data from the ten ASEAN Member States. 
 background: /assets/images/Ari%20Kustiawan_Coconut%20Rhinoceros%20Beetle.jpg
@@ -14,9 +13,6 @@ cta:
   - text: About
     href: /about
 permalink: /
-composition:
-  - type: blank
-    data: home.main
 height: 70vh
 ---
 
