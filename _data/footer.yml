@@ -5,7 +5,7 @@
 columns:
   - name: Resources
     links:
-     - text: ASEAN Biodiversity Dashboard
+    - text: ASEAN Biodiversity Dashboard
       href: https://dashboard.aseanbiodiversity.org
     - text: ASEAN Clearing-House Mechanism
       href: https://asean.chm-cbd.net
