@@ -14,6 +14,9 @@ cta:
   - text: About
     href: /about
 permalink: /
+composition:
+  - type: blank
+    data: home.main
 height: 70vh
 ---
 
