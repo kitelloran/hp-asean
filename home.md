@@ -7,7 +7,7 @@ background: /assets/images/Ari%20Kustiawan_Coconut%20Rhinoceros%20Beetle.jpg
 imageLicense: |
   Photo by Ari Kustiawan_Coconut Rhinoceros Beetle
 cta:
-  - text: Explore ASEAN Collection
+  - text: Explore ASEAN Species Collection
     href: /occurrence/search
     isPrimary: true
   - text: About
