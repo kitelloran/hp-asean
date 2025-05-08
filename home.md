@@ -17,7 +17,6 @@ permalink: /
 composition:
   - type: blank
     data: home.main
-  - type: blank
 height: 70vh
 ---
 
