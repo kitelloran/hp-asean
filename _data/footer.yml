@@ -4,7 +4,7 @@
 # Columns (the more you add, the narrower they will be)
 columns:
   - name: Resources
-    links:
+    links: 
     - text: ASEAN Biodiversity Dashboard
       href: https://dashboard.aseanbiodiversity.org
     - text: ASEAN Clearing-House Mechanism
