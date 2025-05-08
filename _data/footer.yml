@@ -3,12 +3,14 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Partners
+  - name: Resources
     links:
-    - text: Name of project partner 1
-      href: http://example.com
-    - text: Name of project partner 2
-      href: http://example.com
+     - text: ASEAN Biodiversity Dashboard
+      href: https://dashboard.aseanbiodiversity.org
+    - text: ASEAN Clearing-House Mechanism
+      href: https://asean.chm-cbd.net
+    - text: ASEAN Centre for Biodiversity
+      href: https://www.aseanbiodiversity.org
 
   - name: Code
     description: | # Can be Markdown
