@@ -9,30 +9,6 @@ blueprint_with_video:
       <iframe src="https://www.youtube.com/embed/4Ad1SCl0s6w" title="Harnessing the Power of Natural Science Collections" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
       </iframe>
     </div>
-    
-    <div class="feature-content">
-        <div class="feature-text">
-            <h3 class="feature-title">
-                <p>Harnessing the Power of Natural Science Collections</p>
-            </h3>
-        </div>
-    
-        <div class="feature-description">
-            <p>
-               DiSSCo UK is harnessing the full potential of the UK’s natural science
-               collections by making them physically and digitally open, accessible, and
-               usable for all forms of research and innovation. The DiSSCo UK Blueprint
-               describes how the consortium aims to scale up digitisation and
-               cooperation through a national infrastructure programme.
-            </p>
-        </div>
-        <div class="feature-cta">
-            <a href="/assets/Harnessing%20the%20Power%20of%20Natural%20Science%20Collections.pdf"
-                class="button is-primary">
-              Download report
-            </a>
-        </div>
-    </div>
 
 main:
   klass: home_main
