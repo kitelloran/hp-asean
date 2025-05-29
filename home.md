@@ -18,7 +18,7 @@ permalink: /
 height: 70vh
 ---
 
-<font size='16'>  <b>WHAT ASEAN Species Occurrences Collection</b></font>
+<font size='16'>  <b>ASEAN Species Occurrences Collection</b></font>
 
 #Natural history collections (NHCs) are a data-rich resource and are considered as a cornerstone of biodiversity science. These invaluable collections, whether housed in #public or private museums, universities, and research institutions, have long been identified to play a crucial role in research, education, and biodiversity #conservation. Specimens effectively capture taxonomic, and functional diversity, representing species' environmental niches more efficiently than community science #observations. 
 #<br>
