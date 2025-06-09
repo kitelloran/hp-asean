@@ -1,6 +1,7 @@
 ASEAN Centre for Biodiversity
 
 Biodiversity Informatics and Geospatial Analysis
+Kit Elloran
 
 [![GBIF Hosted Portal](https://docs.gbif.org/style/gbif-hosted-portal.svg)](https://github.com/gbif/hosted-portals)
 [![Build Status](https://builds.gbif.org/job/hp-asean/badge/icon)](https://builds.gbif.org/job/hp-asean/lastBuild/console)
