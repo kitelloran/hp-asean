@@ -1,1 +1,6 @@
-Frequently asked question page
+---
+lang-ref: FAQ
+title: FAQ
+description: Frequently Asked Questions
+layout: occurrence
+---
