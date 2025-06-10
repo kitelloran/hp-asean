@@ -2,7 +2,7 @@
 lang-ref: faq
 title: FAQ
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background: /assets/images/Ho Phooi Leng_I will follow you.jpg
+background: /assets/images/Pang Kok Wei_The Elegant Mantises.jpg
 imageLicense: |
   Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
 height: 70vh
