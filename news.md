@@ -4,7 +4,7 @@ title: News
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
 background: /assets/images/Daniel Ocampo_Resting Sea turtle.jpg
 imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+  
 height: 70vh
 ---
 
