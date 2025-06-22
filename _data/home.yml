@@ -4,10 +4,10 @@ latest:
 blueprint_with_video:
   klass: home_video
   # this is based on the product block
-  markdownContent: |
-    <div class="feature-img">
+   #markdownContent: |
+    #<div class="feature-img">
       
-    </div>
+    #</div>
 
 main:
   background: /assets/images/Ari%20Kustiawan_Coconut%20Rhinoceros%20Beetle.jpg
@@ -76,7 +76,17 @@ main:
     })();
     </script>
 
-    
+    <div class="feature-img">
+        <img src="/assets/images/Ari%20Kustiawan_Coconut%20Rhinoceros%20Beetle.jpg">
+        <div class="feature-img-license">
+            <div class="feature-img-license-c">
+                <span class="icon"><i class="fa fa-info-circle"></i></span>
+            </div>
+            <div class="feature-img-license-text">
+                <p>Copyright by Ari%20Kustiawan</p>
+            </div>
+        </div>
+    </div>
 
     <div class="feature-content">
         <h1 class="home-feature-title">ASEAN Centre for Biodiversity</h1>
