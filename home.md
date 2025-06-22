@@ -9,7 +9,7 @@ background: /assets/images/Ari%20Kustiawan_Coconut%20Rhinoceros%20Beetle.jpg
 imageLicense: |
   Photo by Ari Kustiawan_Coconut Rhinoceros Beetle
 cta:
-  - text: Explore ASEAN Species Collection
+  - text: Explore ASEAN Species Collections
     href: /occurrence/search
     isPrimary: true
   - text: About
@@ -18,7 +18,7 @@ permalink: /
 height: 70vh
 ---
 
-<font size='14'>  <b>ASEAN Species Collection</b></font>
+<font size='14'>  <b>ASEAN Species Collections</b></font>
 
 Biodiversity Informatics and Geospatial Analysis 
 <br>
