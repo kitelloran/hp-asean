@@ -16,11 +16,7 @@ blueprint_with_video:
     
         <div class="feature-description">
             <p>
-               DiSSCo UK is harnessing the full potential of the UK’s natural science
-               collections by making them physically and digitally open, accessible, and
-               usable for all forms of research and innovation. The DiSSCo UK Blueprint
-               describes how the consortium aims to scale up digitisation and
-               cooperation through a national infrastructure programme.
+               Description
             </p>
         </div>
         <div class="feature-cta">
@@ -40,7 +36,7 @@ main:
     function switchToSpecimens() {
       document.getElementById("home-search-form").action = "/occurrence/search";
       document.getElementById("home-search-input").placeholder = "e.g. Chanos chanos";
-      document.getElementById("home-tab-occurrence").classList.add("is-primary");
+      document.getElementById("home-tab-specimens").classList.add("is-primary");
       document.getElementById("home-tab-institutions").classList.remove("is-primary");
     }
 
@@ -48,7 +44,7 @@ main:
       document.getElementById("home-search-form").action = "/institution/search";
       document.getElementById("home-search-input").placeholder = "e.g. museums";
       document.getElementById("home-tab-institutions").classList.add("is-primary");
-      document.getElementById("home-tab-occurrence").classList.remove("is-primary");
+      document.getElementById("home-tab-specimens").classList.remove("is-primary");
     }
 
     async function getGBIFCount(params) {
