@@ -5,11 +5,11 @@
 - text: UK Specimens
   menu:
     - text: Specimen records
-      href: /specimen/search
+      href: /occurrence/search
     - text: Images
-      href: /specimen/search?view=GALLERY
+      href: /occurrence/search?view=GALLERY
     - text: Map
-      href: /specimen/search?view=MAP
+      href: /occurrence/search?view=MAP
 - text: UK Institutions
   href: /institution/search
 - text: News
