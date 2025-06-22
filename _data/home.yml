@@ -133,7 +133,7 @@ main:
                            id="home-search-input"
                            value=""
                            autocomplete="off"
-                           placeholder="e.g. odonata">
+                           placeholder="e.g. Chanos chanos">
                     <button type="submit">Search</button>
                 </form>
             </div>
