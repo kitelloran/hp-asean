@@ -40,7 +40,7 @@ main:
     function switchToSpecimens() {
       document.getElementById("home-search-form").action = "/occurrence/search";
       document.getElementById("home-search-input").placeholder = "e.g. Chanos chanos";
-      document.getElementById("home-tab-specimens").classList.add("is-primary");
+      document.getElementById("home-tab-occurrence").classList.add("is-primary");
       document.getElementById("home-tab-institutions").classList.remove("is-primary");
     }
 
@@ -48,7 +48,7 @@ main:
       document.getElementById("home-search-form").action = "/institution/search";
       document.getElementById("home-search-input").placeholder = "e.g. museums";
       document.getElementById("home-tab-institutions").classList.add("is-primary");
-      document.getElementById("home-tab-specimens").classList.remove("is-primary");
+      document.getElementById("home-tab-occurrence").classList.remove("is-primary");
     }
 
     async function getGBIFCount(params) {
@@ -132,7 +132,7 @@ main:
                            name="q"
                            id="home-search-input"
                            value=""
-                           autocomplete="off"
+                           autocomplete="On"
                            placeholder="e.g. Chanos chanos">
                     <button type="submit">Search</button>
                 </form>
