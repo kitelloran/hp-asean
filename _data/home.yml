@@ -129,7 +129,7 @@ main:
                         <span>Search institutions</span>
                     </div>
                 </div>
-                <form id="home-search-form" action="/specimen/search" method="GET">
+                <form id="home-search-form" action="/occurrence/search" method="GET">
                     <input type="search"
                            name="q"
                            id="home-search-input"
