@@ -13,6 +13,7 @@ blueprint_with_video:
 main:
   background: /assets/images/Ari%20Kustiawan_Coconut%20Rhinoceros%20Beetle.jpg
   klass: home_main
+  height: 70vh
   # this is based on the hero image block
   markdownContent: |
     <script>
