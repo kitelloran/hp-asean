@@ -1,6 +1,8 @@
 ---
-lang-ref: home
+lang-ref: home 
 layout: home
+title: ASEAN Centre for Biodiversity
+description: The ASEAN Centre for Biodiversity Species Occurrences Collection
 klass: home
 permalink: /
 composition:
