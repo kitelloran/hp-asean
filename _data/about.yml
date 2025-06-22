@@ -9,7 +9,7 @@ summary:
   cta:
     - text: Explore data
       isPrimary: true
-      href: /specimen/search
+      href: /occurrence/search
 
 map:
   background: /assets/images/dissco_map.png
