@@ -1,5 +1,5 @@
 ---
-title: Privacy policy
+title: Privacy policie
 description: Privacy policy
 permalink: /privacy
 layout: standardPrivacy
