@@ -34,7 +34,7 @@ main:
   markdownContent: |
     <script>
     function switchToSpecimens() {
-      document.getElementById("home-search-form").action = "/occurrence/search";
+      document.getElementById("home-search-form").action = "/specimen/search";
       document.getElementById("home-search-input").placeholder = "e.g. Chanos chanos";
       document.getElementById("home-tab-specimens").classList.add("is-primary");
       document.getElementById("home-tab-institutions").classList.remove("is-primary");
