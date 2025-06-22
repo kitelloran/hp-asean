@@ -88,9 +88,9 @@ main:
     </div>
 
     <div class="feature-content">
-        <h1 class="home-feature-title">The Distributed System of Scientific Collections UK</h1>
+        <h1 class="home-feature-title">The ASEAN Centre for Biodiversity Species Occurrences Collections</h1>
         <h2 class="home-feature-subtitle">
-          <span id="home-feature-subtitle-nocount">Search UK natural science collections</span>
+          <span id="home-feature-subtitle-nocount">Search ASEAN collections</span>
           <span id="home-feature-subtitle-count">Search <span id="home-feature-subtitle-rcount"></span> records from <span id="home-feature-subtitle-icount"></span> UK natural science collections</span>
         </h2>
         <div class="home-search-wrapper">
