@@ -18,7 +18,7 @@ permalink: /
 height: 70vh
 ---
 
-<font size='16'>  <b>ASEAN Species Occurrences Collection</b></font>
+<font size='14'>  <b>ASEAN Species Occurrences Collection</b></font>
 
 Biodiversity Informatics and Geospatial Analysis 
 <br>
