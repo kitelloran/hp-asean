@@ -1,0 +1,14 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: About
+  href: /about
+- text: Data
+  href: /occurrence/search
+- text: Project
+  href: /project
+- text: Taxonomy
+  href: /taxonomy
+- text: FAQ
+  href: /faq
+- text: News
+  href: /news/

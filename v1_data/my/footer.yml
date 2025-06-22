@@ -1,0 +1,24 @@
+columns:
+  - name: Rakan Kongsi
+    links:
+    - text: GBIF
+      href: https://www.gbif.org
+    - text: ASEAN
+      href: https://asean.org
+    - text: ACB
+      href: https://aseanbiodiversity.org
+  
+  - name: Hubungi
+    description: | # Can be Markdown
+      Hubungi kami melalui
+      
+      E-mel: [info@gbif-asean.org](mailto:info@gbif-asean.org)
+      
+      Telefon: [+60 3 XXX XXXX](tel:+603XXXXXXX)
+    
+  - name: Media Sosial
+    description: | # Can be Markdown
+      Ikuti kami di
+      * [Facebook](https://facebook.com)
+      * [Twitter](https://twitter.com)
+      * [Instagram](https://instagram.com) 

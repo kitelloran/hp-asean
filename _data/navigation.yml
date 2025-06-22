@@ -2,13 +2,19 @@
 
 - text: About
   href: /about
-- text: Data
-  href: /occurrence/search
-- text: Project
-  href: /project
-- text: Taxonomy
-  href: /taxonomy
-- text: FAQ
-  href: /faq
+- text: UK Specimens
+  menu:
+    - text: Specimen records
+      href: /specimen/search
+    - text: Images
+      href: /specimen/search?view=GALLERY
+    - text: Map
+      href: /specimen/search?view=MAP
+- text: UK Institutions
+  href: /institution/search
 - text: News
-  href: /news/
+  href: /news
+- text: Resources
+  href: /resources
+- text: FAQs
+  href: /faq

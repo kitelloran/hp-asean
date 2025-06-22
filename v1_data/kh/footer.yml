@@ -1,0 +1,27 @@
+columns:
+  - name: ដៃគូ
+    links:
+    - text: GBIF
+      href: https://www.gbif.org
+      new_window: true
+    - text: ASEAN
+      href: https://asean.org
+      new_window: true
+    - text: ACB
+      href: https://aseanbiodiversity.org
+      new_window: true
+  
+  - name: ទំនាក់ទំនង
+    description: | # Can be Markdown
+      សូមទាក់ទងមកយើងខ្ញុំតាមរយៈ
+      
+      អ៊ីមែល: [info@gbif-asean.org](mailto:info@gbif-asean.org)
+      
+      ទូរស័ព្ទ: [+855 23 XXX XXX](tel:+85523XXXXXX)
+    
+  - name: ប្រព័ន្ធផ្សព្វផ្សាយសង្គម
+    description: | # Can be Markdown
+      តាមដានយើងនៅលើ
+      * [Facebook](https://facebook.com)
+      * [Twitter](https://twitter.com)
+      * [Instagram](https://instagram.com) 
