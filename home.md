@@ -15,6 +15,7 @@ composition:
     data: home.blueprint_with_video
   - type: latestPosts
     data: home.latest
+    height: 70vh
 ---
 <font size='14'> <b>ASEAN Species Collections</b></font>
 
