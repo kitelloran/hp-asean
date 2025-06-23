@@ -5,11 +5,6 @@ blueprint_with_video:
   klass: home_video
   # this is based on the product block
   markdownContent: |
-
-<form action="https://asean.hp.gbif-staging.org/occurrence/search/" method="get">
-  <input type="text" id="q" name="q"><br>
-  <input type="submit" value="Submit">
-</form>
     
     <div class="feature-content">
         <div class="feature-text">
@@ -127,6 +122,12 @@ main:
                         <span>Search institutions</span>
                     </div>
                 </div>
+
+                <form action="https://asean.hp.gbif-staging.org/occurrence/search/" method="get">
+                  <input type="text" id="q" name="q"><br>
+                  <input type="submit" value="Submit">
+                </form>
+
                 <form id="home-search-form" action="/occurrence/search" method="GET">
                     <input type="search"
                            name="q"
