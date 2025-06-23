@@ -122,14 +122,13 @@ main:
                         <span>Search institutions</span>
                     </div>
                 </div>
-
                 <form id="home-search-form" action="/occurrence/search" method="GET">
                     <input type="search"
                            name="q"
                            id="home-search-input"
                            value=""
                            autocomplete="On"
-                           placeholder="e.g. Chanos chanos">
+                           placeholder="e.g. xxxChanos chanosxxx">
                     <button type="submit">Search</button>
                 </form>
             </div>
