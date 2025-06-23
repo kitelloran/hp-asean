@@ -123,7 +123,7 @@ main:
                     </div>
                 </div>
 
-                <form action="https://asean.hp.gbif-staging.org/occurrence/search/" method="get">
+                <form id="home-search-form" action="https://asean.hp.gbif-staging.org/occurrence/search/" method="GET">
                   <input type="text" id="q" name="q"><br>
                   <input type="submit" value="Submit">
                 </form>
