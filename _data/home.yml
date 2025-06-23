@@ -6,6 +6,10 @@ blueprint_with_video:
   # this is based on the product block
   markdownContent: |
 
+<form action="https://asean.hp.gbif-staging.org/occurrence/search/" method="get">
+  <input type="text" id="q" name="q"><br>
+  <input type="submit" value="Submit">
+</form>
     
     <div class="feature-content">
         <div class="feature-text">
