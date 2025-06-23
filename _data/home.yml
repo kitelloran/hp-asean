@@ -127,16 +127,6 @@ main:
                   <input type="text" id="q" name="q"><br>
                   <input type="submit" value="Submit">
                 </form>
-
-                <form id="home-search-form" action="/occurrence/search" method="GET">
-                    <input type="search"
-                           name="q"
-                           id="home-search-input"
-                           value=""
-                           autocomplete="On"
-                           placeholder="e.g. Chanos chanos">
-                    <button type="submit">Search</button>
-                </form>
             </div>
         </div>
     </div>
