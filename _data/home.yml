@@ -110,7 +110,19 @@ main:
           <span id="home-feature-subtitle-nocount">Search UK natural science collections</span>
           <span id="home-feature-subtitle-count">Search <span id="home-feature-subtitle-rcount"></span> records from <span id="home-feature-subtitle-icount"></span> UK natural science collections</span>
         </h2>
-        <div class="home-search-wrapper">
+        
+
+    <div class="home-search-wrapper">
+        <div class="home-search">
+              <form action="https://asean.hp.gbif-staging.org/occurrence/search/" method="get">
+                <input type="text" id="q" name="q"><br>
+                <input type="submit" value="Submit">
+              </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="home-search-wrapper">
             <div class="home-search">
                 <div class="home-tabs">
                     <div class="button is-primary" id="home-tab-specimens"
