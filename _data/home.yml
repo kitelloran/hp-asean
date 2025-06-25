@@ -105,7 +105,7 @@ main:
                 <div class="home-tabs">
                     <div class="button is-primary" id="home-tab-specimens"
                          onclick="switchToSpecimens()">
-                        <span>Search specimens</span>
+                        <span>Search species</span>
                     </div>
                     <div class="button" id="home-tab-institutions"
                          onclick="switchToInstitutions()">
