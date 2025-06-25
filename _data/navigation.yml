@@ -6,11 +6,8 @@
   menu:
     - text: Species Occurrence Records
       href: /occurrence/search
-    - text: Multimedia collections
-      href: /occurrence/search?view=GALLERY
-    - text: ASEAN Species Occurrence Map
-      href: /occurrence/search?view=MAP
-      menu:
+    - text: Species Occurrence Map
+  menu:
         - text: Brunei Darussalam
           href: /occurrence/search?view=MAP&country=BN
         - text: Cambodia
@@ -31,6 +28,8 @@
           href: /occurrence/search?view=MAP&country=TH
         - text: Vietnam
           href: /occurrence/search?view=MAP&country=VN
+    - text: Multimedia Collections
+      href: /occurrence/search?view=GALLERY
 - text: ASEAN Member States
   menu:
     - text: Brunei Darussalam
