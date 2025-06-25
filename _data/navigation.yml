@@ -34,7 +34,9 @@
       href: /occurrence/search?country=VN
 - text: News
   href: /news
-- text: Resources
-  href: /resources
+- text: Project
+  href: /project
+- text: Taxonomy
+  href: /taxonomy
 - text: FAQs
   href: /faq
