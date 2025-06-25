@@ -2,15 +2,15 @@
 
 - text: About
   href: /about
-- text: UK Specimens
+- text: ASEAN Species Collections
   menu:
-    - text: Specimen records
+    - text: Species Occurrence Records
       href: /occurrence/search
     - text: Images
       href: /occurrence/search?view=GALLERY
     - text: Map
       href: /occurrence/search?view=MAP
-- text: UK Institutions
+- text: ASEAN Member States
   href: /institution/search
 - text: News
   href: /news
