@@ -7,27 +7,7 @@
     - text: Species Occurrence Records
       href: /occurrence/search
     - text: Species Occurrence Map
-    menu:
-      - text: Brunei Darussalam
-        href: /occurrence/search?view=MAP&country=BN
-      - text: Cambodia
-        href: /occurrence/search?view=MAP&country=KH
-      - text: Indonesia
-        href: /occurrence/search?view=MAP&country=ID
-      - text: Lao PDR
-        href: /occurrence/search?view=MAP&country=LA
-      - text: Malaysia
-        href: /occurrence/search?view=MAP&country=MY
-      - text: Myanmar
-        href: /occurrence/search?view=MAP&country=MM
-      - text: Philippines
-        href: /occurrence/search?view=MAP&country=PH
-      - text: Singapore
-        href: /occurrence/search?view=MAP&country=SG
-      - text: Thailand
-        href: /occurrence/search?view=MAP&country=TH
-      - text: Vietnam
-        href: /occurrence/search?view=MAP&country=VN
+      href: /occurrence/search?view=MAP
     - text: Multimedia Collections
       href: /occurrence/search?view=GALLERY
 - text: ASEAN Member States
