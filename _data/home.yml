@@ -94,12 +94,12 @@ main:
 
     <div class="feature-content">
         <h1 class="home-feature-title">ASEAN Centre for Biodiversity</h1>
-        <h2 class="home-feature-subtitle">
+        <h3 class="home-feature-subtitle">
           <span id="home-feature-subtitle-nocount">Search ASEAN Collections</span>
           <span id="home-feature-subtitle-count">Search 
           <span id="home-feature-subtitle-rcount"></span> records from 
           <span id="home-feature-subtitle-icount"></span> ASEAN Collections</span>
-        </h2>
+        </h3>
         <div class="home-search-wrapper">
             <div class="home-search">
                 <div class="home-tabs">
