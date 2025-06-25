@@ -15,50 +15,23 @@ map:
       href: /assets/Harnessing the Power of Natural Science Collections.pdf
       isPrimary: true
   description: |
-    DiSSCo UK seeks to become a one-stop, dynamic, openly available and easy-to-use
-    e-science infrastructure, integrating digital access to UK natural science
-    collections.
-    Through a hub and spoke model of digitisation at national, regional and local levels
-    DiSSCo will:
-      - Empower the UK network of collections through digitisation
-      - Enhance UK biodiversity and heritage information infrastructure
-      - Improve data quality
-      - Deliver relevant data
+    ASEAN Centre for Biodiversity
 
 benefits:
   markdownContent: |
-    # Benefits of UK natural science collections
-    
-    ## Scientific Benefits
-    Natural science collections are a critical resource for scientists advancing
-    knowledge that informs challenging global issues including climate change,
-    biodiversity conservation, resourcing the green economy and our response to
-    pandemics such as COVID-19.
-    
-    ## Societal Benefits
-    Natural science collections connect and empower society, inspiring a lifelong love
-    of nature, are the source of educational material for generations and provide
-    communities with data and knowledge, as well as involving them in its creation and
-    interpretation.
-    
-    ## Economic Benefits
-    Digitisation of natural science digitisation has the potential to deliver a tenfold
-    return on investment, creating benefits in excess of £2 billion over 30 years.
+    Description
 
 data:
   klass: about-data
-  title: DiSSCo Data
+  title: ASEAN Data
   description: |
-    DiSSCo UK will adopt the relatively mature data standards and technologies that have
-    already been developed within the global natural science collections community.
-    All data generated through the network is both open and FAIR (Findable,
-    Interoperable, Accessible and Reproducible).
+    ASEAN Data
   background: /assets/images/about/fossil.png
   reverse: true
 
 partners:
   klass: about-partners
-  title: DiSSCo UK Partners
+  title: ASEAN Member States
   background: /assets/images/about/shell_puzzle.png
   description: |
     [Birmingham Museums](https://www.birminghammuseums.org.uk/)  
