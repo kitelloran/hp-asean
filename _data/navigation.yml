@@ -6,9 +6,9 @@
   menu:
     - text: Species Occurrence Records
       href: /occurrence/search
-    - text: Images
+    - text: Multimedia collections
       href: /occurrence/search?view=GALLERY
-    - text: Map
+    - text: ASEAN Species Occurrence Map
       href: /occurrence/search?view=MAP
 - text: ASEAN Member States
   href: /institution/search
