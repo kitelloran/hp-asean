@@ -11,6 +11,27 @@
     - text: ASEAN Species Occurrence Map
       href: /occurrence/search?view=MAP
 - text: ASEAN Member States
+  menu:
+    - text: Brunei Darussalam
+      href: /occurrence/search?country=BN
+    - text: Cambodia
+      href: /occurrence/search?country=KH
+    - text: Indonesia
+      href: /occurrence/search?country=ID
+    - text: Lao PDR
+      href: /occurrence/search?country=LA
+    - text: Malaysia
+      href: /occurrence/search?country=MY
+    - text: Myanmar
+      href: /occurrence/search?country=MM
+    - text: Philippines
+      href: /occurrence/search?country=PH
+    - text: Singapore
+      href: /occurrence/search?country=SG
+    - text: Thailand
+      href: /occurrence/search?country=TH
+    - text: Vietnam
+      href: /occurrence/search?country=VN
   href: /institution/search
 - text: News
   href: /news
