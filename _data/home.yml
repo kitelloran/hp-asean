@@ -26,14 +26,14 @@ main:
     <script>
     function switchToSpecimens() {
       document.getElementById("home-search-form").action = "/occurrence/search";
-      document.getElementById("home-search-input").placeholder = "e.g. Chanos chanos";
+      document.getElementById("home-search-input").placeholder = "e.g. Scientific names, common names, countries";
       document.getElementById("home-tab-specimens").classList.add("is-primary");
       document.getElementById("home-tab-institutions").classList.remove("is-primary");
     }
 
     function switchToInstitutions() {
       document.getElementById("home-search-form").action = "/institution/search";
-      document.getElementById("home-search-input").placeholder = "e.g. organisations. museums, academe";
+      document.getElementById("home-search-input").placeholder = "e.g. organisations, museums, academe";
       document.getElementById("home-tab-institutions").classList.add("is-primary");
       document.getElementById("home-tab-specimens").classList.remove("is-primary");
     }
@@ -122,7 +122,7 @@ main:
                            id="home-search-input"
                            value=""
                            autocomplete="On"
-                           placeholder="e.g. Chanos chanos">
+                           placeholder="e.g. Scientific names, common names, countries">
                     <button type="submit">Search</button>
                 </form>
             </div>
