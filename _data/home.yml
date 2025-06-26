@@ -6,7 +6,7 @@ blueprint_with_video:
   # this is based on the product block
   markdownContent: |
     <div class="feature-img">
-      <iframe src="https://www.youtube.com/watch?v=kD7wdGlC4ck&t=7s" title="ASEAN Biodiversity Dashboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+      <iframe src="https://youtu.be/kD7wdGlC4ck?si=8inlyDtD9ueOPrnq" title="ASEAN Biodiversity Dashboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
       </iframe>
     </div>
     
