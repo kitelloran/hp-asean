@@ -99,7 +99,8 @@ main:
     <div class="feature-content">
         <h1 class="home-feature-title">ASEAN Centre for Biodiversity</h1>
         <h2 class="home-feature-subtitle">
-          <span id="home-feature-subtitle-nocount">Search ASEAN Collections</span>
+          <span>Documenting ASEAN’s Biodiversity</span>
+          <span>One region, ten countries, diverse species and habitats linked together in one portal</span>
           <span id="home-feature-subtitle-count">Search <span id="home-feature-subtitle-rcount"></span> records from <span id="home-feature-subtitle-icount"></span> Collections</span>
         </h2>
         <div class="home-search-wrapper">
