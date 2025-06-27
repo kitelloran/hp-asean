@@ -3,7 +3,7 @@ title:  "Getting started for authors"
 date:   2021-01-14 15:20:00 +0100
 categories: ["Getting started", "Jekyll"]
 lang-ref: for authors
-background: assets/images/nemo.jpg
+background: assets/images/BDM.png
 ---
 You’ll find this post in your `_posts` directory.
 
