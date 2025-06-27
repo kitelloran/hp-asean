@@ -3,7 +3,7 @@ title:  "Biodiversity Informatics and Geospatial Analysis"
 date:   2021-01-14 15:20:00 +0100
 categories: ["Getting started", "Jekyll"]
 lang-ref: for authors
-background: assets/images/BDM.png
+background: assets/images/BIGAD.jpg
 ---
 Know more about Biodiversity Informatics and Geospatial Analysis
 
