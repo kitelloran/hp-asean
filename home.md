@@ -11,6 +11,8 @@ permalink: /
 composition:
   - type: blank
     data: home.main
+  - type: stats
+    data: home.stats
   - type: blank
     data: home.blueprint_with_video
   - type: latestPosts
