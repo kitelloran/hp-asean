@@ -129,9 +129,9 @@ main:
 
 stats:
   features:
-      # See script.js
+      # See script.js > includes :folder
     - title: <span id="mapCount" class="ajax-is-loading">Loading</span>
-      description: Species records
+      description: Species occurrence records
       background: assets/icons/Icon_Species-Occurences.png
       href: /occurrence/search
     - title: <span id="datasetCount" class="ajax-is-loading">Loading</span>
