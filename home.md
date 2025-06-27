@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: ASEAN Centre for Biodiversity
 description: The ASEAN Centre for Biodiversity Species Occurrences Collections
-background: /assets/images/homebanner.jpeg
+background: /assets/images/Ari Kustiawan_Coconut Rhinoceros Beetle.jpg
 imageLicense: |
   Photo by Ari Kustiawan_Coconut Rhinoceros Beetle
 klass: home
@@ -17,5 +17,7 @@ composition:
     data: home.blueprint_with_video
   - type: latestPosts
     data: home.latest
-    height: 70vh
+    height: 50vh
+  - type: features
+    data: home.cards_on_home
 ---
