@@ -1,6 +1,9 @@
 latest:
   title: Latest news
-
+composition:
+  - type: latestPosts
+    data: home.latest
+    height: 50vh
 # blueprint_with_video:
   # klass: home_video
   # this is based on the product block
