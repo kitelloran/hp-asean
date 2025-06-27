@@ -139,5 +139,5 @@ stats:
       href: /occurrence/search/?view=DATASETS
     - title: <span id="imageCount" class="ajax-is-loading">Loading</span>
       description: Species with photos
-      background: assets/icons/Icon_Elibrary.png
+      background: assets/icons/Icon_AMS.png
       href: /occurrence/search/?view=GALLERY
