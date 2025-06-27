@@ -55,6 +55,10 @@
       href: /occurrence/search?country=TH
     - text: Vietnam
       href: /occurrence/search?country=VN
+- text: Tools
+  menu:
+    - text: Integrated Publishing Toolkit IPT
+      href: https://bkmd.aseanbiodiversity.org/ipt/
 - text: News
   href: /news
 - text: Project
