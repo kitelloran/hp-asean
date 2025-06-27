@@ -10,6 +10,29 @@
       href: /occurrence/search?view=MAP
     - text: Multimedia Collections
       href: /occurrence/search?view=GALLERY
+- text: Taxonomy
+  href: /taxonomy
+  menu:
+    - text: Animalia
+      href: /occurrence/search?taxonKey=1
+    - text: Chordata
+      href: /occurrence/search?taxonKey=44
+    - text: Aves
+      href: /occurrence/search?taxonKey=212
+    - text: Passeriformes
+      href: /occurrence/search?taxonKey=729
+    - text: Plantae
+      href: /occurrence/search?taxonKey=6
+    - text: Tracheophyta
+      href: /occurrence/search?taxonKey=7707728
+    - text: Arthropoda
+      href: /occurrence/search?taxonKey=54
+    - text: Magnoliopsida
+      href: /occurrence/search?taxonKey=220
+    - text: Insecta
+      href: /occurrence/search?taxonKey=216
+    - text: Columbiformes
+      href: /occurrence/search?taxonKey=1446
 - text: ASEAN Member States
   menu:
     - text: Brunei Darussalam
@@ -36,28 +59,7 @@
   href: /news
 - text: Project
   href: /project
-- text: Taxonomy
-  href: /taxonomy
-  menu:
-    - text: Animalia
-      href: /occurrence/search?taxonKey=1
-    - text: Chordata
-      href: /occurrence/search?taxonKey=44
-    - text: Aves
-      href: /occurrence/search?taxonKey=212
-    - text: Passeriformes
-      href: /occurrence/search?taxonKey=729
-    - text: Plantae
-      href: /occurrence/search?taxonKey=6
-    - text: Tracheophyta
-      href: /occurrence/search?taxonKey=7707728
-    - text: Arthropoda
-      href: /occurrence/search?taxonKey=54
-    - text: Magnoliopsida
-      href: /occurrence/search?taxonKey=220
-    - text: Insecta
-      href: /occurrence/search?taxonKey=216
-    - text: Columbiformes
-      href: /occurrence/search?taxonKey=1446
 - text: FAQs
   href: /faq
+- text: Contact Us
+  href: /contact
