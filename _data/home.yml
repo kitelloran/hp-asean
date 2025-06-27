@@ -1,22 +1,25 @@
 latest:
   title: Latest news
-
-blueprint_with_video:
-  klass: home_video
+composition:
+  - type: latestPosts
+    data: home.latest
+    height: 50vh
+# blueprint_with_video:
+  # klass: home_video
   # this is based on the product block
-  markdownContent: |
-    <div class="feature-img">
-      <iframe src="https://youtu.be/kD7wdGlC4ck?si=8inlyDtD9ueOPrnq" title="ASEAN Biodiversity Dashboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-      </iframe>
-    </div>
+  # markdownContent: |
+    # <div class="feature-img">
+      # <iframe src="https://youtu.be/kD7wdGlC4ck?si=8inlyDtD9ueOPrnq" title="ASEAN Biodiversity Dashboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+      # </iframe>
+    # </div>
     
-    <div class="feature-content">
-        <div class="feature-text">
-            <h3 class="feature-title">
-                <p>A Data Sharing Platform to Monitor Biodiversity Trends and Species Occurrence in the ASEAN Region</p>
-            </h3>
-        </div>
-    </div>
+    # <div class="feature-content">
+        # <div class="feature-text">
+          #   <h3 class="feature-title">
+            #     <p>A Data Sharing Platform to Monitor Biodiversity Trends and Species Occurrence in the ASEAN Region</p>
+            # </h3>
+        # </div>
+    # </div>
 
 main:
   klass: home_main
@@ -95,13 +98,9 @@ main:
             </div>
         </div>
     </div>
-
     <div class="feature-content">
-        <h1 class="home-feature-title">ASEAN Centre for Biodiversity</h1>
-        <h2 class="home-feature-subtitle">
-          <span id="home-feature-subtitle-nocount">Search ASEAN Collections</span>
-          <span id="home-feature-subtitle-count">Search <span id="home-feature-subtitle-rcount"></span> records from <span id="home-feature-subtitle-icount"></span> Collections</span>
-        </h2>
+        <h2 class="home-feature-title">ASEAN Centre for Biodiversity</h2>
+        <font size="5">Documenting ASEAN Region's Biodiversity</font>
         <div class="home-search-wrapper">
             <div class="home-search">
                 <div class="home-tabs">
@@ -129,16 +128,16 @@ main:
 
 stats:
   features:
-      # See script.js
+      # See script.js > includes :folder
     - title: <span id="mapCount" class="ajax-is-loading">Loading</span>
-      description: Artennachweise
-      background: /assets/icons/occurrences.png
+      description: Species occurrence
+      background: assets/icons/Icon_Species-Occurences.png
       href: /occurrence/search
     - title: <span id="datasetCount" class="ajax-is-loading">Loading</span>
-      description: Datensätze
-      background: /assets/icons/datasets.png
+      description: Dataset records
+      background: assets/icons/Icon_Elibrary.png
       href: /occurrence/search/?view=DATASETS
     - title: <span id="imageCount" class="ajax-is-loading">Loading</span>
-      description: Nachweise mit Fotos
-      background: /assets/icons/photos.png
+      description: Species with photos
+      background: assets/icons/Icon_Elibrary.png
       href: /occurrence/search/?view=GALLERY
