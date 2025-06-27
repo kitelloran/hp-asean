@@ -18,11 +18,19 @@ columns:
 
   - name: Contact
     description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
+      * For technical inquiries
+      * Biodiversity Informatics and Geospatial Analysis Division
+      * ASEAN Centre for Biodiversity
+      * bigad@aseanbiodiversity.org
+      * Domingo M. Lantican Avenue,
+      * University of the Philippines Los Baños,
+      * Laguna, Philippines 4031
     connectIcons: true
+
+ # Social icons links defined in `_config.yml`
+      # * Street name
+      # * 1234 postal code
+      # * Country
 
   # EXAMPLE
   #- name: Group name
