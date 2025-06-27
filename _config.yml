@@ -18,13 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ASEAN Centre for Biodiversity # the title of your site should go here
+title: ASEAN Biodiversity Dashboard Hosted Portal # the title of your site should go here
 #title: A+BIGNET # the title of your site should go here
 email: cbelloran@aseanbiodiversity.org
 description: >- # this means to ignore newlines (until baseurl:)
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The ASEAN Biodiversity Dashboard is a regional data platform developed to support the monitoring and 
+  reporting of biodiversity-related indicators across ASEAN Member States. It consolidates and visualizes 
+  biodiversity data from national and global sources, helping track progress toward global commitments such 
+  as the Kunming-Montreal Global Biodiversity Framework (KM-GBF) and the Sustainable Development Goals (SDGs). 
+  The dashboard enables policymakers, researchers, and the public to access key information on species, 
+  ecosystems, protected areas, and conservation efforts in the ASEAN region, promoting informed 
+  decision-making and regional collaboration.
 baseurl: "" # the subpath of your site, e.g. /blog https://abignet.aseanbiodiversity.org/
 url: "https://hp-asean.gbif.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
