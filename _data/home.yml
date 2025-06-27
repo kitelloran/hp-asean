@@ -98,10 +98,11 @@ main:
             </div>
         </div>
     </div>
-
+# Old version of Title
+#  <h2 class="home-feature-title">ASEAN Centre for Biodiversity</h2>
     <div class="feature-content">
-        <h2 class="home-feature-title">ASEAN Centre for Biodiversity</h2>
-          <font size="5">Documenting ASEAN’s Biodiversity</font>
+        <font size="7">ASEAN Centre for Biodiversity</font>
+        <font size="5">Documenting ASEAN’s Biodiversity</font>
         <div class="home-search-wrapper">
             <div class="home-search">
                 <div class="home-tabs">
