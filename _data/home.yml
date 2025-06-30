@@ -2,7 +2,7 @@ latest:
   title: Latest news
 composition:
   - type: latestPosts
-    data: home.latest
+    data: home
     height: 50vh
 # blueprint_with_video:
   # klass: home_video
