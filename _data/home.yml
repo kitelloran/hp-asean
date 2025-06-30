@@ -131,13 +131,13 @@ stats:
       # See script.js > includes :folder
     - title: <span id="mapCount" class="ajax-is-loading">Loading</span>
       description: Species occurrence
-      background: assets/icons/sp-occurrence-icon.png
+      background: assets/icons/occ-bio.png
       href: /occurrence/search
     - title: <span id="datasetCount" class="ajax-is-loading">Loading</span>
       description: Dataset records
-      background: assets/icons/dataset-icon.jpg
+      background: assets/icons/db-bio.png
       href: /occurrence/search/?view=DATASETS
     - title: <span id="imageCount" class="ajax-is-loading">Loading</span>
       description: Species with photos
-      background: assets/icons/species-photo-icon.png
+      background: assets/icons/plant-bio.png
       href: /occurrence/search/?view=GALLERY
