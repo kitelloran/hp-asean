@@ -138,6 +138,11 @@ stats:
       background: assets/icons/db-bio.png
       href: /occurrence/search/?view=DATASETS
     - title: <span id="imageCount" class="ajax-is-loading">Loading</span>
-      description: Species with photos
+      description: ASEAN Countries
       background: assets/icons/plant-bio.png
       href: /occurrence/search/?view=GALLERY
+    - title: <span id="imageCount" class="ajax-is-loading">Loading</span>
+      description: Species with photos <br> 10
+      background: assets/icons/plant-bio.png
+      href: /occurrence/search/?view=GALLERY
+      
