@@ -143,6 +143,10 @@ stats:
       description: ASEAN Countries
       background: assets/icons/asean-bio.png
       href: /occurrence/search?country=BN&country=TH&country=ID&country=MY&country=PH&country=SG&country=VN&country=KH&country=MM&country=LA&view=map
+    - title: <span>2,648</span>
+      description: Protected Areas
+      background: assets/icons/Icon_protected-areas.png
+      href: 
     - title: <span id="imageCount" class="ajax-is-loading">Loading</span>
       description: Species with photos
       background: assets/icons/plant-bio.png
