@@ -139,7 +139,7 @@ stats:
       href: /occurrence/search/?view=DATASETS
     - title: <span>10</span>
       description: ASEAN Countries
-      background: assets/icons/asean-bio.jpeg
+      background: assets/icons/asean-bio.png
       href: /occurrence/search/?view=GALLERY
     - title: <span id="imageCount" class="ajax-is-loading">Loading</span>
       description: Species with photos
