@@ -1,6 +1,8 @@
 latest:
   title: Latest news
 composition:
+  - type: blank
+    data: home.main
   - type: latestPosts
     data: home
     height: 50vh
