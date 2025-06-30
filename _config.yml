@@ -31,6 +31,7 @@ description: >- # this means to ignore newlines (until baseurl:)
   decision-making and regional collaboration.
 baseurl: "" # the subpath of your site, e.g. /blog https://abignet.aseanbiodiversity.org/
 url: "https://hp-asean.gbif.org/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dashboard-hp.aseanbiodiversity.org/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
