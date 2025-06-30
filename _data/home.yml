@@ -101,7 +101,7 @@ main:
     <div class="feature-content">
         <h2 class="home-feature-title">ASEAN Biodiversity Dashboard</h2>
         <font size="5">an interactive, online platform for visualising trends and  geographic variation in biodiversity indicators</font>
-        <span></span>
+        <br><br>
         <div class="home-search-wrapper">
             <div class="home-search">
                 <div class="home-tabs">
