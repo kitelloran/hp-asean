@@ -1,5 +1,15 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
+# Aquatic Species
 
+#menu:
+# - text: Actinopterygii
+#    href: /occurrence/search?q=Actinopterygii&taxonKey=121&taxonKey=44&taxonKey=587&taxonKey=4499&taxonKey=1153&taxonKey=8535&taxonKey=4274&taxonKey=7336&taxonKey=772&taxonKey=8517
+#        - Actinopterygii
+#          href: /occurrence/search?q=Actinopterygii
+#        - Elasmobranchii
+#          href: /occurrence/search?q=Elasmobranchii
+#        - Myxini
+#          href: /occurrence/search?q=Myxini
 - text: About
   href: /about
 - text: ASEAN Species Collections
@@ -19,8 +29,8 @@
       href: /occurrence/search?taxonKey=367
     - text: Aves
       href: /occurrence/search?taxonKey=212
-    - text: Actinopterygii
-      href: /occurrence/search?q=Actinopterygii&taxonKey=44&taxonKey=587&taxonKey=4499&taxonKey=1153&taxonKey=8535&taxonKey=4274&taxonKey=7336&taxonKey=772&taxonKey=8517
+    - text: Fish
+      href: /occurrence/search?q=Actinopterygii&taxonKey=121&taxonKey=44&taxonKey=587&taxonKey=4499&taxonKey=1153&taxonKey=8535&taxonKey=4274&taxonKey=7336&taxonKey=772&taxonKey=8517
     - text: Bacteria
       href: /occurrence/search?taxonKey=3
     - text: Crustaceans

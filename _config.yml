@@ -30,7 +30,7 @@ description: >- # this means to ignore newlines (until baseurl:)
   ecosystems, protected areas, and conservation efforts in the ASEAN region, promoting informed 
   decision-making and regional collaboration.
 baseurl: "" # the subpath of your site, e.g. /blog https://abignet.aseanbiodiversity.org/
-url: "https://hp-asean.gbif.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hp-asean.gbif.org/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -42,7 +42,7 @@ plugins:
 
 remote_theme: gbif/jekyll-hp-base-theme
 
-algae.hideHelper: false
+# algae.hideHelper: false
 
 # for usage in the standard privacy layout
 privacy:
