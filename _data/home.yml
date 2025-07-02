@@ -102,7 +102,7 @@ main:
     </div>
     <div class="feature-content">
         <h2 class="home-feature-title">ASEAN Biodiversity Dashboard</h2>
-        <font size="5">ASEAN Species Collections</font>
+        <h4 class="home-feature-title">ASEAN Species Collection</h4>
         <font size="5">an interactive, online platform for visualising trends and 
         <br>geographic variation in biodiversity indicators</font>
         <br><br>
