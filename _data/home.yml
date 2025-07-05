@@ -1,8 +1,10 @@
 latest:
-  title: Latest news
+  title: Biodiversity Data Mobilisation
 composition:
+  - type: blank
+    data: home.main
   - type: latestPosts
-    data: home.latest
+    data: home
     height: 50vh
 # blueprint_with_video:
   # klass: home_video
@@ -100,9 +102,8 @@ main:
     </div>
     <div class="feature-content">
         <h2 class="home-feature-title">ASEAN Biodiversity Dashboard</h2>
-        <font size="5">an interactive, online platform for visualising trends and 
-        <br>geographic variation in biodiversity indicators</font>
-        <br><br>
+        <font size="5">ASEAN Species Collections</font><br>
+        <br>
         <div class="home-search-wrapper">
             <div class="home-search">
                 <div class="home-tabs">
@@ -143,6 +144,10 @@ stats:
       description: ASEAN Countries
       background: assets/icons/asean-bio.png
       href: /occurrence/search?country=BN&country=TH&country=ID&country=MY&country=PH&country=SG&country=VN&country=KH&country=MM&country=LA&view=map
+    - title: <span>2,648</span>
+      description: Protected Areas
+      background: assets/icons/Icon_protected-areas.png
+      href: 
     - title: <span id="imageCount" class="ajax-is-loading">Loading</span>
       description: Species with photos
       background: assets/icons/plant-bio.png
