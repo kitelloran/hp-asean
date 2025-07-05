@@ -133,7 +133,7 @@ stats:
   features:
       # See script.js > includes :folder
     - title: <span id="mapCount" class="ajax-is-loading">Loading</span>
-      description: Species occurrence
+      description: Species occurrences
       background: assets/icons/occ-bio.png
       href: /occurrence/search
     - title: <span id="datasetCount" class="ajax-is-loading">Loading</span>
@@ -146,7 +146,7 @@ stats:
       href: /occurrence/search?country=BN&country=TH&country=ID&country=MY&country=PH&country=SG&country=VN&country=KH&country=MM&country=LA&view=map
     - title: <span>261</span>
     # - title: <span id="institutionCount" class="ajax-is-loading">Loading</span>
-      description: ASEAN Institution
+      description: ASEAN Institutions
       background: assets/icons/museum.png
       href: /institution/search?country=BN&country=KH&country=ID&country=LA&country=MY&country=MM&country=PH&country=SG&country=TH&country=VN
     # - title: <span>2,648</span>
