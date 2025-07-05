@@ -39,10 +39,10 @@
       href: /occurrence/search?taxonKey=95
     - text: Insecta
       href: /occurrence/search?taxonKey=216
-    - text: Tracheophyta
-      href: /occurrence/search?q=Tracheophyta
-    - text: Magnoliopsida
-      href: /occurrence/search?taxonKey=220
+    # - text: Tracheophyta
+      # href: /occurrence/search?q=Tracheophyta
+    # - text: Magnoliopsida
+      # href: /occurrence/search?taxonKey=220
     - text: Mamalia
       href: /occurrence/search?taxonKey=359
     - text: Mollusca
