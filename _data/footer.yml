@@ -15,7 +15,7 @@ columns:
       href: https://www.aseanbiodiversity.org
 
   - name: Tools
-    description: | # Can be Markdown
+    links: | # Can be Markdown
     - text: Integrated Publishing Toolkit IPT
       href: https://bkmd.aseanbiodiversity.org/ipt/
 
