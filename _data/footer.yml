@@ -2,6 +2,8 @@
 # You can also add a small print license statement at the bottom.
 
 # Columns (the more you add, the narrower they will be)
+
+# This project is open source. See `_data/footer.yml` to customize the footer.
 columns:
   - name: Resources
     links: 
@@ -12,9 +14,10 @@ columns:
     - text: ASEAN Centre for Biodiversity
       href: https://www.aseanbiodiversity.org
 
-  - name: Code
+  - name: Tools
     description: | # Can be Markdown
-      This project is open source. See `_data/footer.yml` to customize the footer.
+    - text: Integrated Publishing Toolkit IPT
+      href: https://bkmd.aseanbiodiversity.org/ipt/
 
   - name: Contact
     description: | # Can be Markdown
