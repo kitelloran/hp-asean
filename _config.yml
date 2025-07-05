@@ -56,7 +56,7 @@ privacy:
 siteMeasurements:
   enable: false # When enabled there will be a popup asking the user for their consent. If they accept then the function "attachMeasurements" will be called. You can overwrite this function by adding a file `/_includes/js/measure.js` and replace the function.
   GA_ID: "G-WGZ4M2QG3Z" # Your Google analytics ID. Sometimes they start with UA-XXXXX-X other times with G-XXXXXXXX depending on how you set it up
-  termsVersion: "2021-07-06" # A version number for your terms. If you change this, then the users will see the popup again asking them to confirm/reject anew.
+  termsVersion: "2025-07-06" # A version number for your terms. If you change this, then the users will see the popup again asking them to confirm/reject anew.
 
 useSharedLibrary: true
 algae:
@@ -72,9 +72,9 @@ algae:
       links: "#fa5e97"          # What color should links have. Use a HEX code. DEfault is primary color. 
     coloredHeadlineLinks: false   # If a headline is a link, then use the link color. Default is true. 
   navbar:                         # RELATED TO NAVIGATION BAR
-    # brandBackground: yellow     # Define a custom background for the logo/title in the top navigation bar
-    # color: "tomato"             # What color should the navbar be?
-    # hasWhiteText: true          # Should the text color be white?
+     brandBackground: yellow     # Define a custom background for the logo/title in the top navigation bar
+     color: "tomato"             # What color should the navbar be?
+     hasWhiteText: true          # Should the text color be white?
 
 # Exclude from processing.
 # The following items will not be processed, by default.
