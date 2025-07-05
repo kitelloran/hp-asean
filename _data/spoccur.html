@@ -1,4 +1,192 @@
-<form action="https://asean.hp.gbif-staging.org/occurrence/search/" method="get">
-  <input type="text" id="q" name="q"><br>
-  <input type="submit" value="Submit">
-</form>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Engine</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        /* Custom styles for better aesthetics */
+        body {
+            font-family: "Inter", sans-serif;
+            background-color: #f0f2f5;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+        }
+
+        .tab-container {
+            background-color: #ffffff;
+            border-radius: 5px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+            width: 100%;
+            max-width: 700px;
+            padding-bottom: -10px;
+        }
+
+        .tabs {
+            display: flex;
+            border-bottom: 1px solid #e2e8f0;
+            background-color: #f8fafc;
+        }
+
+        .tab-button {
+            flex: 1;
+            padding: 16px 20px;
+            cursor: pointer;
+            border: none;
+            background-color: transparent;
+            font-weight: 600;
+            color: #505253;
+            transition: all 0.3s ease;
+            text-align: center;
+            border-bottom: 0px solid transparent;
+            outline: none; /* Remove outline on focus */
+        }
+
+        .tab-button:hover {
+            color: #FF581D; /* Blue-700 */
+            background-color: #ffffff; /* Gray-100 */
+        }
+
+        .tab-button.active {
+            color: #ffffff; /* Blue-600 */
+            border-bottom-color: #FF581D; /* Blue-600 */
+            background-color: #FF581D;
+        }
+
+        .tab-content-wrapper {
+            padding: 1px;
+        }
+
+        .tab-pane {
+            display: none; /* Hide all tab panes by default */
+        }
+
+        .tab-pane.active {
+            display: block; /* Show the active tab pane */
+        }
+
+        textarea {
+            width: 100%;
+            min-height: 30px;
+            padding: 5px;
+            border: 0px solid #cbd5e0;
+            border-radius: 8px;
+            font-size: 1rem;
+            /*resize: vertical; /* Allow vertical resizing */
+            transition: border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+            outline: none; /* Remove outline on focus */
+        }
+
+        textarea:focus {
+            border-color: #63b3ed; /* Blue-300 */
+            box-shadow: 0 0 0 3px rgba(66, 153, 225, 0.5); /* Blue-300 with transparency */
+            border-radius: 0px;
+        }
+
+        .action-button {
+            background-color: #3182ce; /* Blue-600 */
+            color: white;
+            padding: 10px 20px;
+            border-radius: 2px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            margin-top: 16px;
+            outline: none; /* Remove outline on focus */
+        }
+
+        .action-button:hover {
+            background-color: #2b6cb0; /* Blue-700 */
+        }
+    </style>
+</head>
+<body>
+
+    <div class="tab-container">
+        <!-- Tab Buttons -->
+        <div class="tabs">
+            <button class="tab-button active" onclick="openTab(event, 'tabInput1')">Search species</button>
+            <button class="tab-button" onclick="openTab(event, 'tabInput2')">Search institutions</button>
+        </div>
+        <!-- Tab Content -->
+        <div class="tab-content-wrapper">
+            <!-- Tab Pane 1 -->
+            <div id="tabInput1" class="tab-pane active">
+                <!---h2 class="text-xl font-semibold mb-4 text-gray-800">Enter Text for Option 1</h2--->
+                <textarea id="textInput1" placeholder="e.g. Scientific names, common names, countries"></textarea>
+                <!---button class="action-button" onclick="processText('textInput1')">Process Tab 1 Text</button--->
+                <p id="output1" class="mt-4 text-gray-700"></p>
+            </div>
+
+            <!-- Tab Pane 2 -->
+            <div id="tabInput2" class="tab-pane">
+                <!---h2 class="text-xl font-semibold mb-4 text-gray-800">Enter Text for Option 2</h2--->
+                <textarea id="textInput2" placeholder="e.g. Organisations, museums, academe"></textarea>
+                <!---button class="action-button" onclick="processText('textInput2')">Process Tab 2 Text</button--->
+                <p id="output2" class="mt-4 text-gray-700"></p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        /**
+         * Opens a specific tab and displays its content.
+         * Hides all other tab contents and deactivates other tab buttons.
+         *
+         * @param {Event} evt - The event object from the click.
+         * @param {string} tabName - The ID of the tab pane to be displayed.
+         */
+        function openTab(evt, tabName) {
+            let i;
+
+            // Get all elements with class="tab-pane" and hide them
+            const tabcontent = document.getElementsByClassName("tab-pane");
+            for (i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].classList.remove("active");
+            }
+
+            // Get all elements with class="tab-button" and remove the "active" class
+            const tablinks = document.getElementsByClassName("tab-button");
+            for (i = 0; i < tablinks.length; i++) {
+                tablinks[i].classList.remove("active");
+            }
+
+            // Show the current tab, and add an "active" class to the button that opened the tab
+            document.getElementById(tabName).classList.add("active");
+            evt.currentTarget.classList.add("active");
+        }
+
+        /**
+         * Processes the text from the specified textarea and displays it.
+         * This function can be extended to perform more complex operations.
+         *
+         * @param {string} inputId - The ID of the textarea element.
+         */
+        function processText(inputId) {
+            const textArea = document.getElementById(inputId);
+            const outputElement = document.getElementById('output' + inputId.slice(-1)); // Assumes inputId ends with 1 or 2
+
+            if (textArea) {
+                const text = textArea.value.trim();
+                if (text) {
+                    // Example: Display the text and its length
+                    outputElement.textContent = `You entered: "${text}" (Length: ${text.length} characters)`;
+                    // In a real application, you might send this text to a server,
+                    // perform some client-side validation, or other operations.
+                } else {
+                    outputElement.textContent = "Please enter some text.";
+                }
+            }
+        }
+
+        // Initialize the first tab as active on load (handled by initial HTML classes)
+        // No explicit JS call needed here because 'active' classes are set in HTML.
+    </script>
+
+</body>
+</html>
