@@ -138,7 +138,7 @@ stats:
       href: /occurrence/search
     - title: <span id="datasetCount" class="ajax-is-loading">Loading</span>
       description: Dataset records
-      background: assets/icons/db-bio.png
+      background: assets/icons/eco-data.png
       href: /occurrence/search/?view=DATASETS
     - title: <span>10</span>
       description: ASEAN Countries
