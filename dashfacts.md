@@ -2,11 +2,11 @@
 # Stories about GBIF-mediated US data
 layout: compose
 klass: compositionBlocks
-title: US Relevant Items from GBIF.org
+title: Total Number of Species of selected Taxonomic Groups from the ASEAN.
 description: Total Number of Species of selected Taxonomic Groups from the ASEAN.
 composition:
 - type: stories
-  data: GBIFdataUse
+  data: dashfacts
 - type: stories
   data: GBIFevents
 - type: stories
