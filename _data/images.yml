@@ -1,36 +1,37 @@
+# Updated by Kit Elloran - 2025-07-07
 # SOME NOTES TO MAKE THESE CONSISTENT:
 # name: use the common name - it is easier to type
 #   src: download the image in high resolution and save it locally. This is more robust
 #   caption: use the "Suggested attribution" associated with the image on the GBIF occurrence, but keep links to the site when possible.
 
-Acanthogorgia:
-  src: /assets/images/https___deepseacoraldata.noaa.gov_db-images_918242.jpg
-  caption: "[Acanthogorgia Gray, 1857](https://www.gbif.us/data?entity=2557396581) from NOAA, Deep Sea Coral Research & Technology Program (2017) Deep-sea coral and sponge records from the CAPSTONE:   Exploring Remote Pacific Marine Protected Areas (EX-17-03). (www.deepseacoraldata.noaa.gov)"
+Amphibia:
+  src: assets/taxontn/amphibians.png
+  caption: ""
 
-AmericanBison1:
-  src: /assets/images/bison_inat_tuoichen.jpg
-  caption: "photo by tuoichen via [inaturalist.org](https://www.inaturalist.org/observations/43215178)"
+Arachnida:
+  src: assets/taxontn/amphibians.png
+  caption: "Arachnida"
 
-AmericanBison2:
+Aves:
   # src: /assets/images/tim-peterson-jwAoPdEd7GM-unsplash.jpg
-  src: /assets/images/bison-bison-unsplash.jpg
-  caption: "Photo by [Tim Peterson](https://unsplash.com/@stp_com?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+  src: assets/taxontn/amphibians.png
+  caption: "Aves"
 
-BalkanToadflax:
-  src: /assets/images/dalmation_toadflax_zookanthos.jpeg
-  caption: "Photo by zookanthos via [gbif.org](https://www.gbif.org/occurrence/2610938963)"
+Fish:
+  src: assets/taxontn/amphibians.png
+  caption: "Fish"
 
-BandedBird:
+Bacteria:
   #from https://www.usgs.gov/media/images/female-southwestern-willow-flycatcher-colorful-bands
-  src: /assets/images/20190625_071523_SWWFinSanDiego_Howell_resize2.jpg
-  caption: "Public domain photo by Scarlett Howell"
+  src: assets/taxontn/amphibians.png
+  caption: "Bacteria"
 
-BirdFlock:
-  src: /assets/images/BarthBailey_UnSplash_birds.jfif
-  caption: "Photo by Barth Bailey[https://unsplash.com/@7bbbailey?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText] via [Unsplash.com](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+Crustaceans:
+  src: assets/taxontn/amphibians.png
+  caption: "Crustaceans"
 
 BluenoseShiner:
-  src: /assets/images/bluenose_shiner_FWC.jpg
+  src: assets/taxontn/amphibians.png
   caption: "Bluenose shiner - Florida Fish and Wildlife Conservation Commission photo via Flickr (CC BY-NC-ND 2.0)"
 
 Bumblebee1:
