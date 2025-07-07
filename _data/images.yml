@@ -6,7 +6,7 @@
 
 amphibia:
   src: assets/taxontn/amphibians.png
-  caption: ""
+  caption: "Amphibia"
 
 arachnida:
   src: assets/taxontn/amphibians.png
