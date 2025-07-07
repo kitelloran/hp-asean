@@ -1,13 +1,15 @@
 ---
-lang-ref: dashfacts
-title: Dash Facts
-description: A number of available species collection per taxa
-background: /assets/images/Ho Phooi Leng_I will follow you.jpg
-imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
-height: 70vh
+# Stories about GBIF-mediated US data
+layout: compose
+klass: compositionBlocks
+title: US Relevant Items from GBIF.org
+description: This page pulls in news, data use, and event stories from GBIF.org.
+composition:
+- type: stories
+  data: GBIFdataUse
+- type: stories
+  data: GBIFevents
+- type: stories
+  data: GBIFnews  
+
 ---
-
-## Dashboard Facts
-
-A number of available species collection per taxa
