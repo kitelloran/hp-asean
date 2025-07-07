@@ -4,29 +4,29 @@
 #   src: download the image in high resolution and save it locally. This is more robust
 #   caption: use the "Suggested attribution" associated with the image on the GBIF occurrence, but keep links to the site when possible.
 
-Amphibia:
+amphibia:
   src: assets/taxontn/amphibians.png
   caption: ""
 
-Arachnida:
+arachnida:
   src: assets/taxontn/amphibians.png
   caption: "Arachnida"
 
-Aves:
+aves:
   # src: /assets/images/tim-peterson-jwAoPdEd7GM-unsplash.jpg
   src: assets/taxontn/amphibians.png
   caption: "Aves"
 
-Fish:
+fish:
   src: assets/taxontn/amphibians.png
   caption: "Fish"
 
-Bacteria:
+bacteria:
   #from https://www.usgs.gov/media/images/female-southwestern-willow-flycatcher-colorful-bands
   src: assets/taxontn/amphibians.png
   caption: "Bacteria"
 
-Crustaceans:
+crustaceans:
   src: assets/taxontn/amphibians.png
   caption: "Crustaceans"
 
