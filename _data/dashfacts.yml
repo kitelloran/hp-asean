@@ -14,28 +14,3 @@ filters:
     - DATA_USE
   # Set the number of items to showcase. Default is 6.
   limit: 6
-
-  # Filter content by researcher's country using ISO country codes. (Optional)
-  countriesOfResearcher: 
-    - US
-    - UM
-    - AS
-    - FM
-    - GU
-    - MH
-    - MP
-    - PR
-    - PW
-    - VI
-  # Filter content by country or coverage using ISO country codes. (Optional)
-  countriesOfCoverage:
-    - US
-    - UM
-    - AS
-    - FM
-    - GU
-    - MH
-    - MP
-    - PR
-    - PW
-    - VI
