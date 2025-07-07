@@ -10,8 +10,10 @@
 #          href: /occurrence/search?q=Elasmobranchii
 #        - Myxini
 #          href: /occurrence/search?q=Myxini
-- text: About
-  href: /about
+- text: Dash Facts
+  href: /dashfacts
+# - text: About
+  # href: /about
 - text: ASEAN Species Collections
   menu:
     - text: Species Occurrence Records
@@ -39,10 +41,10 @@
       href: /occurrence/search?taxonKey=95
     - text: Insecta
       href: /occurrence/search?taxonKey=216
-    - text: Tracheophyta
-      href: /occurrence/search?q=Tracheophyta
-    - text: Magnoliopsida
-      href: /occurrence/search?taxonKey=220
+    # - text: Tracheophyta
+      # href: /occurrence/search?q=Tracheophyta
+    # - text: Magnoliopsida
+      # href: /occurrence/search?taxonKey=220
     - text: Mamalia
       href: /occurrence/search?taxonKey=359
     - text: Mollusca
