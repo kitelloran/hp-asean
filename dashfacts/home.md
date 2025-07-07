@@ -1,7 +1,7 @@
 ---
 layout: heroImage
-lang-ref: dashfacts/dashfacts
-title: The Bean Bag
+lang-ref: dashfacts/home
+title: Dash Facts
 background: assets/images/Aung Kyaw Moe_Chin Women.jpg
 imageLicense: |
   *Dichrostachys cinerea* (L.) Wight & Arn. Photo by Bruno Durand via [iNaturalist](https://www.gbif.org/occurrence/1898844739)
