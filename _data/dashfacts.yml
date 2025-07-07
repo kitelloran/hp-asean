@@ -1,0 +1,16 @@
+# "Stories" Block Configuration Guide
+
+# Title (Optional)
+title: "Dashboard Facts" 
+id: "dashfacts"
+
+# Description (Optional)
+description:  Total Number of Species of selected Taxonomic Groups from the ASEAN.
+ 
+# Filters
+# Use these options to tailor the content displayed in your block.
+filters:
+  contentType: 
+    - DATA_USE
+  # Set the number of items to showcase. Default is 6.
+  limit: 6
