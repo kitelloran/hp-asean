@@ -11,6 +11,6 @@ description:  Total Number of Species of selected Taxonomic Groups from the ASEA
 # Use these options to tailor the content displayed in your block.
 filters:
   contentType: 
-    - DATA_USE
+    # - DATA_USE
   # Set the number of items to showcase. Default is 6.
-  limit: 6
+  limit: 3
