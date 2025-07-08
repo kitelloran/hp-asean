@@ -1,15 +1,12 @@
 ---
-layout: page
-lang-ref: dashfacts-dashfacts
-lang: en
+layout: heroImage
+lang-ref: dashfacts
 title: Dash Facts
 background: assets/images/Aung Kyaw Moe_Chin Women.jpg
-description: Total Species Count of Selected Taxonomic Groups in the ASEAN Region
+imageLicense: |
+  *Photo by: Aung Kyaw Moe_Chin Women, Zooming In on Biodiversity
+description: Photo finalist from Zoomin In on Biodiversity
 height: 70vh
-composition:
-  - type: features
-    data: dashfacts
 ---
 
-## Issue 67, Year 2020
 Total Species Count of Selected Taxonomic Groups in the ASEAN Region
