@@ -10,6 +10,3 @@ composition:
   - type: features
     data: dashfacts
 ---
-
-## Issue 67, Year 2020
-Published electronically 3 February 2021
