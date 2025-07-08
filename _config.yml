@@ -96,7 +96,7 @@ algae:
 #   - vendor/ruby/
 
 exclude:
-  - _posts/es # if we start adding posts this should be added until they are ready
+  # - _posts/es # if we start adding posts this should be added until they are ready
   - .LICENSE
   - .netlify.toml
   - .README.md
