@@ -1,6 +1,6 @@
 ---
 layout: page
-lang-ref: dashfacts-dashfacts
+lang-ref: dashfacts
 lang: en
 title: Dash Facts
 background: assets/images/Aung Kyaw Moe_Chin Women.jpg
