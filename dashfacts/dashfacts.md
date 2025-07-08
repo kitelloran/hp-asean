@@ -8,7 +8,7 @@ description: Total Species Count of Selected Taxonomic Groups in the ASEAN Regio
 height: 70vh
 composition:
   - type: features
-    data: dashfacts.home
+    data: dashfacts
 ---
 
 ## Issue 67, Year 2020
