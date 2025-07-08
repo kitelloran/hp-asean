@@ -3,9 +3,9 @@ lang-ref: contact
 title: Contact us
 description:
 
-background: /assets/images/Ho Phooi Leng_I will follow you.jpg
+background: assets/images/Thant Zin_Fisherman.jpg
 imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+  Photo by hant Zin, Zooming In on Biodiversity
 height: 70vh
 ---
 
