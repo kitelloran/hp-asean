@@ -13,5 +13,3 @@ composition:
 
 ## Issue 67, Year 2020
 Published electronically 3 February 2021
-
-[![](/assets/images/Aung Kyaw Moe_Chin Women.jpg){:standalone}](/media/The_BB_Newsletter_Issue67_2020.pdf)
