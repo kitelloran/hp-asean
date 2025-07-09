@@ -9,6 +9,7 @@ description: Total Species Count of Selected Taxonomic Groups in the ASEAN Regio
 height: 70vh
 ---
 
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
   box-sizing: border-box;
@@ -51,65 +52,42 @@ body {
   text-align: center;
   background-color: #f1f1f1;
 }
-
- .card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-}
 </style>
 
 <div class="row">
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
-      <h3>Amphibians</h3>
-      <p>Count</p>
-      <p>Description</p>
+     <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
+      <h3>Card 1</h3>
+      <p>Some text</p>
+      <p>Some text</p>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
-      <h3>Amphibians</h3>
-      <p>Count</p>
-      <p>Description</p>
+     <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
+      <h3>Card 2</h3>
+      <p>Some text</p>
+      <p>Some text</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
-      <h3>Amphibians</h3>
-      <p>Count</p>
-      <p>Description</p>
+     <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
+      <h3>Card 3</h3>
+      <p>Some text</p>
+      <p>Some text</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
-      <h3>Amphibians</h3>
-      <p>Count</p>
-      <p>Description</p>
-    </div>
-  </div>
-</div>
-
-<div class="column">
-    <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
-      <h3>Amphibians</h3>
-      <p>Count</p>
-      <p>Description</p>
-    </div>
-  </div>
-  
-  <div class="column">
-    <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
-      <h3>Amphibians</h3>
-      <p>Count</p>
-      <p>Description</p>
+     <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
+      <h3>Card 4</h3>
+      <p>Some text</p>
+      <p>Some text</p>
     </div>
   </div>
 </div>
