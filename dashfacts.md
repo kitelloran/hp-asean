@@ -1,7 +1,6 @@
 ---
 layout: heroImage
 lang-ref: dashfacts
-klass: home_main
 title: Dash Facts
 background: assets/images/Aung Kyaw Moe_Chin Women.jpg
 imageLicense: |
