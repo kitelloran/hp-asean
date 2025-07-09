@@ -10,70 +10,106 @@ height: 70vh
 ---
 
 <style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Float four columns side by side */
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+}
+
+/* Remove extra left and right margins, due to padding */
+.row {margin: 0 -5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+
+/* Style the counter cards */
 .card {
-  box-shadow: 0 5px 5px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
-  width: 40%;
-  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
 }
-.card:hover {
+
+ .card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-}
-img {
-  border-radius: 5px 5px 0 0;
-}
-.container {
-  padding: 2px 16px;
 }
 </style>
 
-<h2>Amphibians</h2>
-<div class="card">
-  <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
-  <div class="container">
-    <h4><b>Numbers</b></h4> 
-    <p>Amphibians</p> 
+<div class="row">
+  <div class="column">
+    <div class="card">
+    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
+      <h3>Amphibians</h3>
+      <p>Count</p>
+      <p>Description</p>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
+      <h3>Amphibians</h3>
+      <p>Count</p>
+      <p>Description</p>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
+      <h3>Amphibians</h3>
+      <p>Count</p>
+      <p>Description</p>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
+      <h3>Amphibians</h3>
+      <p>Count</p>
+      <p>Description</p>
+    </div>
   </div>
 </div>
-<div class="card">
-  <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
-  <div class="container">
-    <h4><b>Numbers</b></h4> 
-    <p>Amphibians</p> 
+
+<div class="column">
+    <div class="card">
+    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
+      <h3>Amphibians</h3>
+      <p>Count</p>
+      <p>Description</p>
+    </div>
   </div>
-</div>
-<div class="card">
-  <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
-  <div class="container">
-    <h4><b>Numbers</b></h4> 
-    <p>Amphibians</p> 
-  </div>
-</div>
-<div class="card">
-  <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
-  <div class="container">
-    <h4><b>Numbers</b></h4> 
-    <p>Amphibians</p> 
-  </div>
-</div>
-<div class="card">
-  <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
-  <div class="container">
-    <h4><b>Numbers</b></h4> 
-    <p>Amphibians</p> 
-  </div>
-</div>
-<div class="card">
-  <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
-  <div class="container">
-    <h4><b>Numbers</b></h4> 
-    <p>Amphibians</p> 
-  </div>
-</div>
-<div class="card">
-  <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
-  <div class="container">
-    <h4><b>Numbers</b></h4> 
-    <p>Amphibians</p> 
+  
+  <div class="column">
+    <div class="card">
+    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
+      <h3>Amphibians</h3>
+      <p>Count</p>
+      <p>Description</p>
+    </div>
   </div>
 </div>
