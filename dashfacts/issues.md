@@ -1,17 +1,15 @@
 ---
 layout: page
-lang-ref: beanbag-issues
+lang-ref: dashfacts-issues
 lang: en
-title: Issues
-background: /assets/images/kew_beanbag_banner.jpg
-description: Last issues of the Bean Bag
+title: Dash Facts
+background: assets/images/Aung Kyaw Moe_Chin Women.jpg
+description: Total Species Count of Selected Taxonomic Groups in the ASEAN Region
 height: 70vh
 composition:
   - type: features
-    data: beanbag.issues
+    data: dashfacts.issues
 ---
 
 ## Issue 67, Year 2020
 Published electronically 3 February 2021
-
-[![](/assets/images/bb-67-cover-2.png){:standalone}](/media/The_BB_Newsletter_Issue67_2020.pdf)
