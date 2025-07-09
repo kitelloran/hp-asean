@@ -16,26 +16,20 @@ height: 70vh
   width: 40%;
   border-radius: 5px;
 }
-
 .card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
-
 img {
   border-radius: 5px 5px 0 0;
 }
-
 .container {
   padding: 2px 16px;
 }
 </style>
-</head>
-<body>
 
 <h2>Amphibians</h2>
-
 <div class="card">
-  <img src="assets/images/Aung Kyaw Moe_Chin Women.jpg" alt="Avatar" style="width:100%">
+  <img src="https://asean.hp.gbif-staging.org/assets/ASEAN-HP.jpeg" alt="Amphibians" style="width:100%">
   <div class="container">
     <h4><b>Numbers</b></h4> 
     <p>Amphibians</p> 
