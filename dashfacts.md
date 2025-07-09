@@ -22,7 +22,7 @@ body {
 /* Float four columns side by side */
 .column {
   float: left;
-  width: 20%;
+  width: 25%;
   padding: 0 10px;
   padding-bottom: 20px;
 }
@@ -53,11 +53,12 @@ body {
   text-align: center;
   background-color: #f1f1f1;
 }
-</style>c
+</style>
 
 <div class="row">
   <div class="column">
     <div class="card">
+    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
       <h3>Card 1</h3>
       <p>Some text</p>
       <p>Some text</p>
@@ -66,6 +67,7 @@ body {
 
   <div class="column">
     <div class="card">
+    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
       <h3>Card 2</h3>
       <p>Some text</p>
       <p>Some text</p>
@@ -74,6 +76,7 @@ body {
   
   <div class="column">
     <div class="card">
+    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
       <h3>Card 3</h3>
       <p>Some text</p>
       <p>Some text</p>
@@ -82,6 +85,7 @@ body {
   
   <div class="column">
     <div class="card">
+    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
       <h3>Card 4</h3>
       <p>Some text</p>
       <p>Some text</p>
@@ -90,6 +94,7 @@ body {
   
   <div class="column">
     <div class="card">
+    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
       <h3>Card 4</h3>
       <p>Some text</p>
       <p>Some text</p>
@@ -98,6 +103,7 @@ body {
   
   <div class="column">
     <div class="card">
+    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
       <h3>Card 4</h3>
       <p>Some text</p>
       <p>Some text</p>
@@ -106,6 +112,7 @@ body {
   
   <div class="column">
     <div class="card">
+    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
       <h3>Card 4</h3>
       <p>Some text</p>
       <p>Some text</p>
@@ -114,6 +121,7 @@ body {
   
   <div class="column">
     <div class="card">
+    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
       <h3>Card 4</h3>
       <p>Some text</p>
       <p>Some text</p>
@@ -122,6 +130,7 @@ body {
   
   <div class="column">
     <div class="card">
+    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
       <h3>Card 4</h3>
       <p>Some text</p>
       <p>Some text</p>
@@ -130,6 +139,7 @@ body {
   
   <div class="column">
     <div class="card">
+    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
       <h3>Card 4</h3>
       <p>Some text</p>
       <p>Some text</p>
