@@ -81,8 +81,8 @@
   menu:
     - text: Integrated Publishing Toolkit IPT
       href: https://bkmd.aseanbiodiversity.org/ipt/
-- text: News
-  href: /news
+#- text: News
+  # href: /news
 - text: FAQs
   href: /faq
 - text: Contact Us
