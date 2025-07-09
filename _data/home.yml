@@ -2,8 +2,8 @@ latest:
   title: Biodiversity Data Mobilisation
 composition:
   - type: blank
-    # data: home.main
-    href: https://dashboard.aseanbiodiversity.org/
+    data: home.main
+    # href: https://dashboard.aseanbiodiversity.org/
   - type: latestPosts
     data: home
     height: 50vh
