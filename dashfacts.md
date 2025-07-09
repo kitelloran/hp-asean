@@ -52,6 +52,10 @@ body {
   text-align: center;
   background-color: #f1f1f1;
 }
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
 </style>
 
 <div class="row">
@@ -59,6 +63,60 @@ body {
     <div class="card">
      <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
       <h3>Card 1</h3>
+      <p>Some text</p>
+      <p>Some text</p>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+     <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
+      <h3>Card 2</h3>
+      <p>Some text</p>
+      <p>Some text</p>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+     <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
+      <h3>Card 3</h3>
+      <p>Some text</p>
+      <p>Some text</p>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+     <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
+      <h3>Card 4</h3>
+      <p>Some text</p>
+      <p>Some text</p>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+     <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
+      <h3>Card 2</h3>
+      <p>Some text</p>
+      <p>Some text</p>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+     <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
+      <h3>Card 3</h3>
+      <p>Some text</p>
+      <p>Some text</p>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+     <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
+      <h3>Card 4</h3>
       <p>Some text</p>
       <p>Some text</p>
     </div>
