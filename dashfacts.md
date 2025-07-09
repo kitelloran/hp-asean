@@ -59,112 +59,96 @@ body {
   <div class="column">
     <div class="card">
     <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
-      <h3>Amphibians</h3>
-      <p>Number of Amphibians</p>
-      <p>Description</p>
+      <h4>Amphibians</h4>
+      <p>More info.</p>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
     <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
-      <h3>Arachnida</h3>
-      <p>Number of Arachnida</p>
-      <p>Description</p>
+      <h4>Arachnida</h4>
+      <p>More info.</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
     <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
-      <h3>Aves</h3>
-      <p>Number of Aves</p>
-      <p>Description</p>
+      <h4>Aves</h4>
+      <p>More info.</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
     <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
-      <h3>Fish</h3>
-      <p>Number of Fish</p>
-      <p>Description</p>
+      <h4>Fish</h4>
+      <p>More info.</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
     <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
-      <h3>Bacteria</h3>
-      <p>Number of Bacteria</p>
-      <p>Description</p>
+      <h4>Bacteria</h4>
+      <p>More info.</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
     <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
-      <h3>Crustaceans</h3>
-      <p>Number of Crustaceans</p>
-      <p>Description</p>
+      <h4>Crustaceans</h4>
+      <p>More info.</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
     <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
-      <h3>Fungi</h3>
-      <p>Number of Fungi</p>
-      <p>Description</p>
+      <h4>Fungi</h4>
+      <p>More info.</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
     <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
-      <h3>Insecta</h3>
-      <p>Number of Insecta</p>
-      <p>Description</p>
-    </div>
+      <h4>Insecta</h4>
+      <p>More info.</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
     <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
-      <h3>Mammalia</h3>
-      <p>Number of Mammalia</p>
-      <p>Description</p>
-    </div>
+      <h4>Mammalia</h4>
+      <p>More info.</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
     <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
-      <h3>Mollusca</h3>
-      <p>Number of Mollusca</p>
-      <p>Description</p>
-    </div>
+      <h4>Mollusca</h4>
+      <p>More info.</p>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
     <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
-      <h3>Mosses</h3>
-      <p>Number of Mosses</p>
-      <p>Description</p>
+      <h4>Mosses</h4>
+      <p>More info.</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
     <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
-      <h3>Plantae</h3>
-      <p>Number of Plantae</p>
-      <p>Description</p>
+      <h4>Plantae</h4>
+      <p>More info.</p>
     </div>
   </div>
-  
 </div>
