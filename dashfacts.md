@@ -148,4 +148,22 @@ body {
       <p>Some text</p>
     </div>
   </div>
+
+  <div class="column">
+    <div class="card">
+     <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
+      <h3>Card 3</h3>
+      <p>Some text</p>
+      <p>Some text</p>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+     <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
+      <h3>Card 4</h3>
+      <p>Some text</p>
+      <p>Some text</p>
+    </div>
+  </div>
 </div>
