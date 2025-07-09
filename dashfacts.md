@@ -22,7 +22,7 @@ body {
 /* Float four columns side by side */
 .column {
   float: left;
-  width: 25%;
+  width: 40%;
   padding: 0 10px;
   padding-bottom: 20px;
 }
