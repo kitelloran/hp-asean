@@ -126,7 +126,6 @@ body {
       <p>Number of Insecta</p>
       <p>Description</p>
     </div>
-    </div>
   </div>
   
   <div class="column">
@@ -136,7 +135,6 @@ body {
       <p>Number of Mammalia</p>
       <p>Description</p>
     </div>
-    </div>
   </div>
   
   <div class="column">
@@ -145,7 +143,6 @@ body {
       <h3>Mollusca</h3>
       <p>Number of Mollusca</p>
       <p>Description</p>
-    </div>
     </div>
   </div>
 
@@ -166,5 +163,4 @@ body {
       <p>Description</p>
     </div>
   </div>
-  
 </div>
