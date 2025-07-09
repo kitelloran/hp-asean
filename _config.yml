@@ -70,10 +70,10 @@ algae:
       primary: "#ff581d"          # Primary color of your brand. Use HEX code. Used for buttons and links
       links: "#fa5e97"            # What color should links have. Use a HEX code. DEfault is primary color. 
     coloredHeadlineLinks: false   # If a headline is a link, then use the link color. Default is true. 
-    navbar:                       # RELATED TO NAVIGATION BAR
-     brandBackground: "#20a42c"   # Define a custom background for the logo/title in the top navigation bar
-     color: "#20a42c"             # What color should the navbar be?
-     hasWhiteText: false          # Should the text color be white?
+    # navbar:                       # RELATED TO NAVIGATION BAR
+     # brandBackground: "#20a42c"   # Define a custom background for the logo/title in the top navigation bar
+     # color: "#20a42c"             # What color should the navbar be?
+     # hasWhiteText: false          # Should the text color be white?
 
 # Exclude from processing.
 # The following items will not be processed, by default.
