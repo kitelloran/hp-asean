@@ -22,7 +22,7 @@ body {
 /* Float four columns side by side */
 .column {
   float: left;
-  width: 40%;
+  width: 30%;
   padding: 0 10px;
   padding-bottom: 20px;
 }
@@ -53,6 +53,11 @@ body {
   text-align: center;
   background-color: #F1F5F9;
 }
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
 </style>
 
 <div class="row">
