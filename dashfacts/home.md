@@ -1,12 +1,12 @@
 ---
 layout: heroImage
-lang-ref: dashfacts
-title: Dash Facts
-background: assets/images/Aung Kyaw Moe_Chin Women.jpg
+lang-ref: beanbag/home
+title: The Bean Bag
+background: /assets/images/Dichrostachys_cinerea_3952595.jpeg
 imageLicense: |
-  *Photo by Aung Kyaw Moe Chin, Zooming In on Biodiversity
-description: Total Species Count of Selected Taxonomic Groups in the ASEAN Region
+  *Dichrostachys cinerea* (L.) Wight & Arn. Photo by Bruno Durand via [iNaturalist](https://www.gbif.org/occurrence/1898844739)
+description: A newsletter to promote communication among research scientists concerned with the systematics of Leguminosae/Fabaceae
 height: 70vh
 ---
 
-Total Species Count of Selected Taxonomic Groups in the ASEAN Region
+General information about the Bean Bag
