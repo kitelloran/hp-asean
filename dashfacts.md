@@ -1,7 +1,7 @@
 ---
 layout: heroImage
 lang-ref: dashfacts
-title: ---Dash Facts---
+title: Dash Facts
 background: assets/images/Aung Kyaw Moe_Chin Women.jpg
 imageLicense: |
   *Photo by Aung Kyaw Moe Chin, Zooming In on Biodiversity
