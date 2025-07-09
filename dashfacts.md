@@ -59,7 +59,7 @@ body {
   <div class="column">
     <div class="card">
     <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
-      <h3>Amphibians</h3>
+      <h4>Amphibians</h4>
       <p>Number of Amphibians</p>
       <p>Description</p>
     </div>
