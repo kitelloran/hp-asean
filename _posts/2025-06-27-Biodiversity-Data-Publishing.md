@@ -7,4 +7,4 @@ background: assets/images/BDP.png
 ---
 Know more about biodiversity data publishing
 
-Read more in the "[Getting started guide for authors](https://github.com/gbif/hosted-portals/blob/main/getting-started/for-authors.md)" to get started with your new website.
+Read more in the "(https://classroom.google.com/c/NzY5NTIzMzMxODIw?cjc=7ohd2ppb)"
