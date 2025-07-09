@@ -32,7 +32,7 @@ img {
 </head>
 <body>
 
-<h2>Round Card</h2>
+<h2>Amphibians</h2>
 
 <div class="card">
   <img src="assets/images/Aung Kyaw Moe_Chin Women.jpg" alt="Avatar" style="width:100%">
