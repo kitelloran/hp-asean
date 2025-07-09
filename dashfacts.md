@@ -35,3 +35,45 @@ img {
     <p>Amphibians</p> 
   </div>
 </div>
+<div class="card">
+  <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
+  <div class="container">
+    <h4><b>Numbers</b></h4> 
+    <p>Amphibians</p> 
+  </div>
+</div>
+<div class="card">
+  <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
+  <div class="container">
+    <h4><b>Numbers</b></h4> 
+    <p>Amphibians</p> 
+  </div>
+</div>
+<div class="card">
+  <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
+  <div class="container">
+    <h4><b>Numbers</b></h4> 
+    <p>Amphibians</p> 
+  </div>
+</div>
+<div class="card">
+  <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
+  <div class="container">
+    <h4><b>Numbers</b></h4> 
+    <p>Amphibians</p> 
+  </div>
+</div>
+<div class="card">
+  <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
+  <div class="container">
+    <h4><b>Numbers</b></h4> 
+    <p>Amphibians</p> 
+  </div>
+</div>
+<div class="card">
+  <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Amphibians" style="width:100%">
+  <div class="container">
+    <h4><b>Numbers</b></h4> 
+    <p>Amphibians</p> 
+  </div>
+</div>
