@@ -22,7 +22,7 @@ body {
 /* Float four columns side by side */
 .column {
   float: left;
-  width: 25%;
+  width: 30%;
   padding: 0 10px;
   padding-bottom: 20px;
 }
@@ -53,12 +53,17 @@ body {
   text-align: center;
   background-color: #F1F5F9;
 }
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
 </style>
 
 <div class="row">
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
+    <img src="https://asean.hp.gbif-staging.org/assets/taxontn/blank.png" alt="Avatar" style="width:100%">
       <h4>Amphibians</h4>
       <p>More info.</p>
     </div>
@@ -66,7 +71,7 @@ body {
 
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
+    <img src="https://asean.hp.gbif-staging.org/assets/taxontn/blank.png" alt="Avatar" style="width:100%">
       <h4>Arachnida</h4>
       <p>More info.</p>
     </div>
@@ -74,7 +79,7 @@ body {
   
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
+    <img src="https://asean.hp.gbif-staging.org/assets/taxontn/blank.png" alt="Avatar" style="width:100%">
       <h4>Aves</h4>
       <p>More info.</p>
     </div>
@@ -82,7 +87,7 @@ body {
   
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
+    <img src="https://asean.hp.gbif-staging.org/assets/taxontn/blank.png" alt="Avatar" style="width:100%">
       <h4>Fish</h4>
       <p>More info.</p>
     </div>
@@ -90,7 +95,7 @@ body {
   
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
+    <img src="https://asean.hp.gbif-staging.org/assets/taxontn/blank.png" alt="Avatar" style="width:100%">
       <h4>Bacteria</h4>
       <p>More info.</p>
     </div>
@@ -98,7 +103,7 @@ body {
   
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
+    <img src="https://asean.hp.gbif-staging.org/assets/taxontn/blank.png" alt="Avatar" style="width:100%">
       <h4>Crustaceans</h4>
       <p>More info.</p>
     </div>
@@ -106,7 +111,7 @@ body {
   
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
+    <img src="https://asean.hp.gbif-staging.org/assets/taxontn/blank.png" alt="Avatar" style="width:100%">
       <h4>Fungi</h4>
       <p>More info.</p>
     </div>
@@ -114,7 +119,7 @@ body {
   
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
+    <img src="https://asean.hp.gbif-staging.org/assets/taxontn/blank.png" alt="Avatar" style="width:100%">
       <h4>Insecta</h4>
       <p>More info.</p>
     </div>
@@ -122,7 +127,7 @@ body {
   
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
+    <img src="https://asean.hp.gbif-staging.org/assets/taxontn/blank.png" alt="Avatar" style="width:100%">
       <h4>Mammalia</h4>
       <p>More info.</p>
     </div>
@@ -130,7 +135,7 @@ body {
   
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
+    <img src="https://asean.hp.gbif-staging.org/assets/taxontn/blank.png" alt="Avatar" style="width:100%">
       <h4>Mollusca</h4>
       <p>More info.</p>
     </div>
@@ -138,7 +143,7 @@ body {
 
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
+    <img src="https://asean.hp.gbif-staging.org/assets/taxontn/blank.png" alt="Avatar" style="width:100%">
       <h4>Mosses</h4>
       <p>More info.</p>
     </div>
@@ -146,7 +151,7 @@ body {
   
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/images/redfrog.jpg" alt="Avatar" style="width:100%">
+    <img src="https://asean.hp.gbif-staging.org/assets/taxontn/blank.png" alt="Avatar" style="width:100%">
       <h4>Plantae</h4>
       <p>More info.</p>
     </div>
