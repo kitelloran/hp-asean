@@ -22,9 +22,9 @@ body {
 /* Float four columns side by side */
 .column {
   float: left;
-  width: 40%;
+  width: 30%;
   padding: 0 10px;
-}
+  padding-bottom: 20px;
 
 /* Remove extra left and right margins, due to padding */
 .row {margin: 0 -5px;}
