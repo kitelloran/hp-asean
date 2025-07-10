@@ -152,7 +152,7 @@ body {
 
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Reptilia.png" alt="Mosses" style="width:100%">
+    <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Reptilia.png" alt="Reptilia" style="width:100%">
       <h4>Reptilia</h4>
       <p>More info.</p>
     </div>
