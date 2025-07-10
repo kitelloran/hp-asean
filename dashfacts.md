@@ -143,17 +143,17 @@ body {
 
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Mosses.png" alt="Mosses" style="width:100%">
-      <h4>Mosses</h4>
-      <p>More info.</p>
-    </div>
-  </div>
-  
-  <div class="column">
-    <div class="card">
     <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Plantae.png" alt="Plantae" style="width:100%">
       <h4>Plantae</h4>
       <p>More info.</p>
     </div>
   </div>
 </div>
+
+  <div class="column">
+    <div class="card">
+    <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Reptilia.png" alt="Mosses" style="width:100%">
+      <h4>Reptilia</h4>
+      <p>More info.</p>
+    </div>
+  </div>
