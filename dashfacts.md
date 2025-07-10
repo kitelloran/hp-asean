@@ -66,95 +66,94 @@ body {
       <h4>Amphibia</h4>
       <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Amphibia.png" alt="Amphibia" style="width:100%">
       <h4>756</h4>
-      <p>More info.</p>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
+    <h4>Arachnida</h4>
     <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Arachnida.png" alt="Arachnida" style="width:100%">
-      <h4>Arachnida</h4>
-      <p>More info.</p>
+      <h4>2,144</h4>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Aves.png" alt="Aves" style="width:100%">
-      <h4>Aves</h4>
-      <p>More info.</p>
+     <h4>Aves</h4>
+     <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Aves.png" alt="Aves" style="width:100%">
+     <h4>2,923</h4>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Fish.png" alt="Fish" style="width:100%">
       <h4>Fish</h4>
-      <p>More info.</p>
+      <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Fish.png" alt="Fish" style="width:100%">
+      <h4>274</h4>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Bacteria.png" alt="Bacteria" style="width:100%">
-      <h4>Bacteria</h4>
-      <p>More info.</p>
+     <h4>Bacteria</h4>
+     <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Bacteria.png" alt="Bacteria" style="width:100%">
+     <h4>1,116</h4>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Crustaceans.png" alt="Crustaceans" style="width:100%">
-      <h4>Crustaceans</h4>
-      <p>More info.</p>
+     <h4>Crustaceans</h4>
+     <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Crustaceans.png" alt="Crustaceans" style="width:100%">
+     <h4>...</h4>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Fungi.png" alt="Fungi" style="width:100%">
-      <h4>Fungi</h4>
-      <p>More info.</p>
+     <h4>Fungi</h4>
+     <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Fungi.png" alt="Fungi" style="width:100%">
+     <h4>...</h4>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Insecta.png" alt="Insecta" style="width:100%">
-      <h4>Insecta</h4>
-      <p>More info.</p>
+     <h4>Insecta</h4>
+     <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Insecta.png" alt="Insecta" style="width:100%">
+     <h4>17,552</h4>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Mammalia.png" alt="Mammalia" style="width:100%">
-      <h4>Mammalia</h4>
-      <p>More info.</p>
+     <h4>Mammalia</h4>
+      <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Mammalia.png" alt="Mammalia" style="width:100%">
+      <h4>1,009</h4>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Mollusca.png" alt="Mollusca" style="width:100%">
-      <h4>Mollusca</h4>
-      <p>More info.</p>
+     <h4>Mollusca</h4>
+     <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Mollusca.png" alt="Mollusca" style="width:100%">
+     <h4>6,791</h4>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Plantae.png" alt="Plantae" style="width:100%">
-      <h4>Plantae</h4>
-      <p>More info.</p>
+     <h4>Plantae</h4>
+     <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Plantae.png" alt="Plantae" style="width:100%">
+     <h4>37,453</h4>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Reptilia.png" alt="Reptilia" style="width:100%">
-      <h4>Reptilia</h4>
-      <p>More info.</p>
+     <h4>Reptilia</h4>
+     <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Reptilia.png" alt="Reptilia" style="width:100%">
+     <h4>1,441</h4>
     </div>
   </div>
 </div>
