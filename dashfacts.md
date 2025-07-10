@@ -63,9 +63,9 @@ body {
 <div class="row">
   <div class="column">
     <div class="card">
-    <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Amphibia.png" alt="Amphibia" style="width:100%">
       <h4>Amphibia</h4>
-      <p><b>756</b></p>
+      <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Amphibia.png" alt="Amphibia" style="width:100%">
+      <h2>756</h2>
       <p>More info.</p>
     </div>
   </div>
