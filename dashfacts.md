@@ -22,7 +22,7 @@ body {
 /* Float four columns side by side */
 .column {
   float: left;
-  width: 23%;
+  width: 25%;
   padding: 0 10px;
   padding-bottom: 20px;
 }
@@ -148,7 +148,6 @@ body {
       <p>More info.</p>
     </div>
   </div>
-</div>
 
   <div class="column">
     <div class="card">
@@ -157,3 +156,4 @@ body {
       <p>More info.</p>
     </div>
   </div>
+</div>
