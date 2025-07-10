@@ -65,6 +65,7 @@ body {
     <div class="card">
     <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Amphibia.png" alt="Amphibia" style="width:100%">
       <h4>Amphibia</h4>
+      <p><b>756</b></p>
       <p>More info.</p>
     </div>
   </div>
