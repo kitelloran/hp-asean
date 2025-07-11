@@ -50,7 +50,7 @@
     - text: Mollusca
       href: /occurrence/search?taxonKey=52
     - text: Plantae
-      href: /occurrence/search?taxonKey=35&taxonKey=6
+      href: /occurrence/search?taxonKey=6
     - text: Reptilia
       href: /occurrence/search?taxonKey=11418114&taxonKey=11493978&taxonKey=11592253&taxonKey=11569602
 - text: ASEAN Member States
