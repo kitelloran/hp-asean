@@ -13,7 +13,7 @@ var siteConfig = {
   },
   occurrence: {
     occurrenceSearchTabs: ['TABLE', 'GALLERY', 'MAP', 'DATASETS', 'DASHBOARD', 'CLUSTERS'],
-    highlightedFilters: ['q', 'country', 'datasetKey', 'taxonKey', 'occurrenceStatus', 'basisOfRecord', 'year'],
+    highlightedFilters: ['q', 'country', 'taxonKey', 'year', 'datasetKey', 'occurrenceStatus', 'basisOfRecord'],
     rootPredicate: {
       "type": "and",
       "predicates": [
