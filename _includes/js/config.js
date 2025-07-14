@@ -12,6 +12,7 @@ var siteConfig = {
     enabledRoutes: ['occurrenceSearch', 'collectionSearch', 'collectionKey', 'institutionSearch', 'institutionKey'],
   },
   occurrence: {
+    occurrenceSearchTabs: ['TABLE', 'GALLERY', 'MAP', 'DATASETS', 'DASHBOARD', 'CLUSTERS'],
     rootPredicate: {
       "type": "and",
       "predicates": [
