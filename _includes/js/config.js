@@ -15,6 +15,7 @@ var siteConfig = {
       "type": "and",
       "predicates": [
         {
+          {
           "type": "in",
           "key": "country",
           "values": ["BN", "KH", "ID", "LA", "MY", "MM", "PH", "SG", "TH", "VN"]
