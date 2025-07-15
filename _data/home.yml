@@ -158,4 +158,5 @@ stats:
       description: Species with photos
       background: assets/icons/plant-bio.png
       href: /occurrence/search/?view=GALLERY
-      
+    - type: dashboard
+      data: examples.dashboard 
