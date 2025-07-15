@@ -2,7 +2,7 @@ dashboard:
   klass: dashboard
   title: "Data"
   description: |
-    Data mobilized by our community
+    Data mobilized by ASEAN Region
   config: 
     predicate:
       type: equals
