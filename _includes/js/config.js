@@ -29,10 +29,10 @@ var siteConfig = {
         }
       ]
     }, // End Occurrence Function
-    mapSettings: {
-      lat: 7.979424,
-      lng: 108.486306,
-      zoom: 4
+    mapSettings: { // ASEAN Map configurations and zoom level
+      lat: 7.979424, // Latitude of Map
+      lng: 108.486306, // Longitude of Map
+      zoom: 4 // Level of zoom adjusted to 4
     }
   }
 };
