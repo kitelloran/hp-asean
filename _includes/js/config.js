@@ -32,7 +32,7 @@ var siteConfig = {
     mapSettings: {
       lat: 8.731135,
       lng: 108.499525,
-      zoom: 0.9115440763665068
+      zoom: 5
     }
   }
 };
