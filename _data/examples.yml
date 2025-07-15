@@ -1,0 +1,52 @@
+stories:
+  title: "Latest news" 
+  # Filters
+  # Use these options to tailor the content displayed in your block.
+  filters:
+    # Content Type Filter (Optional)
+    # Define which types of content to display. If unspecified, all types are shown.
+    contentType: 
+      - DATA_USE
+      # Uncomment below to add more content types:
+      - NEWS
+      - EVENT
+      # - LITERATURE
+    
+    # Display Limit (Optional)
+    # Set the number of items to showcase. Default is 6.
+    limit: 6 
+
+    # Topic Filters (Optional)
+    # Use these codes to filter content by specific topics.
+    topics:
+      # Uncomment any topics you want to exclude from the block.
+      - MARINE
+
+report:
+  reverse: false
+  title: |
+    <span id="report">OBIS-GBIF Joint Strategy for Marine Biodiversity Data</span>
+  description: |      # required
+    GBIF and OBIS signed a five-year agreement in 2020 to promote further cooperation across a wide range of activities and services between the two global biodiversity data networks.
+
+    The Letter of Agreement targets both technical collaboration covering data standards, publishing and processing; and institutional collaboration to ensure closer ties between OBIS and GBIF nodes, shared training opportunities and aligned documentation.
+  # img required
+  background: /assets/images/placeholders/christoffer-engstrom.jpg
+  imageLicense: |
+    Photo by <a href="https://unsplash.com/@christoffere?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Christoffer Engström</a> on <a href="https://unsplash.com/photos/photo-of-ocean-waves-at-daytime-wc9avd2RaN0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>  
+  cta:
+  - text: Joint strategy
+    href: https://docs.gbif.org/obis-gbif-joint-strategy/en/
+    isPrimary: true
+
+dashboard: 
+  klass: dashboard
+  title: "Data"
+  description: |
+    Data mobilized by our community
+  config: 
+    predicate:
+      type: equals
+      key: networkKey
+      value: 2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6
+    charts: [dataQuality, occurrenceSummary, month, taxa, country, iucnCounts, iucn, datasetKey, publisherKey]
