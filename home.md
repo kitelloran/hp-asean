@@ -18,6 +18,4 @@ composition:
   - type: latestPosts
     data: home.latest
     height: 50vh
-  - type: dashboard
-    data: examples.dashboard
 ---
