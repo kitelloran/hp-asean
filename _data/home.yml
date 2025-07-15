@@ -7,8 +7,8 @@ composition:
   - type: latestPosts
     data: home
     height: 50vh
-  - type: dashboard
-    data: examples.dashboard
+  # - type: dashboard
+    # data: examples.dashboard
 # blueprint_with_video:
   # klass: home_video
   # this is based on the product block
