@@ -11,9 +11,9 @@ var siteConfig = {
     //enabledRoutes: ['occurrenceSearch', 'literatureSearch'],
     enabledRoutes: ['occurrenceSearch', 'collectionSearch', 'collectionKey', 'institutionSearch', 'institutionKey'],
   }, // Highlight Maps : Kit Elloran
-  occurrence: {
+  occurrence: { // Start Occurrence function
     occurrenceSearchTabs: ['TABLE', 'GALLERY', 'MAP', 'DATASETS', 'DASHBOARD', 'CLUSTERS'],
-    highlightedFilters: ['q', 'country', 'taxonKey', 'year', 'datasetKey', 'occurrenceStatus', 'basisOfRecord', 'locality', 'location'],
+    highlightedFilters: ['q', 'country', 'taxonKey', 'year', 'datasetKey', 'occurrenceStatus', 'basisOfRecord', 'locality'],
     rootPredicate: {
       "type": "and",
       "predicates": [
@@ -28,6 +28,11 @@ var siteConfig = {
           "value": "COUNTRY_COORDINATE_MISMATCH"
         }
       ]
+    }, // End Occurrence Function
+    mapSettings: {
+      lat: 8.731135,
+      lng: 108.499525,
+      zoom: 0.9115440763665068
     }
   }
 };
