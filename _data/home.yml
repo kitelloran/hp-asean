@@ -7,8 +7,6 @@ composition:
   - type: latestPosts
     data: home
     height: 50vh
-  # - type: dashboard
-    # data: examples.dashboard
 # blueprint_with_video:
   # klass: home_video
   # this is based on the product block
@@ -160,17 +158,4 @@ stats:
       description: Species with photos
       background: assets/icons/plant-bio.png
       href: /occurrence/search/?view=GALLERY
-
-# DASHBOARD DETAILS ADDED BY : Kit Elloran
-#dashboard: 
-  #klass: dashboard
-  #title: "Data"
-  #description: |
-    #Data mobilized by ASEAN Region
-  #config: 
-    #predicate:
-      #type: equals
-      #key: networkKey
-      #value: a30d7f59-d3d4-4e89-97dc-de9cf837f591
-    #charts: [dataQuality, occurrenceSummary, month, taxa, country, iucnCounts, iucn, datasetKey, publisherKey]
       
