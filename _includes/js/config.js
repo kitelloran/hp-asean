@@ -13,7 +13,7 @@ var siteConfig = {
   }, // Highlight Maps : Kit Elloran
   occurrence: {
     occurrenceSearchTabs: ['TABLE', 'GALLERY', 'MAP', 'DATASETS', 'DASHBOARD', 'CLUSTERS'],
-    highlightedFilters: ['q', 'country', 'taxonKey', 'year', 'datasetKey', 'occurrenceStatus', 'basisOfRecord', 'locality'],
+    highlightedFilters: ['q', 'country', 'taxonKey', 'year', 'datasetKey', 'occurrenceStatus', 'basisOfRecord', 'locality', 'location'],
     rootPredicate: {
       "type": "and",
       "predicates": [
