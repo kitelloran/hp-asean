@@ -158,4 +158,17 @@ stats:
       description: Species with photos
       background: assets/icons/plant-bio.png
       href: /occurrence/search/?view=GALLERY
+
+# DASHBOARD DETAILS ADDED BY : Kit Elloran
+dashboard: 
+  klass: dashboard
+  title: "Data"
+  description: |
+    Data mobilized by our community
+  config: 
+    predicate:
+      type: equals
+      key: networkKey
+      value: 2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6
+    charts: [dataQuality, occurrenceSummary, month, taxa, country, iucnCounts, iucn, datasetKey, publisherKey]
       
