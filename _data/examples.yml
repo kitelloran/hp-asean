@@ -1,8 +1,8 @@
 dashboard: 
   klass: dashboard
-  title: "Data mobilized by ASEAN Region"
-  #description: |
-    #Data mobilized by ASEAN Region
+  # title: "Data mobilized by ASEAN Region"
+  description: |
+    Data mobilized by ASEAN Region
   config: 
     predicate:
       type: equals
