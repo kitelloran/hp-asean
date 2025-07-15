@@ -10,7 +10,16 @@ var siteConfig = {
     alwaysUseHrefs: true, // Update - there now is translations. since the site isn't translated we can use push for now. if true, then we will always use hrefs, if false we will use onClick events and push state to the history. I've added this because I just realize that the language picker doesn't work with pushState as the url of the translated site is not updated with the new url
     //enabledRoutes: ['occurrenceSearch', 'literatureSearch'],
     enabledRoutes: ['occurrenceSearch', 'collectionSearch', 'collectionKey', 'institutionSearch', 'institutionKey'],
-  },
+  }, // Highlight Maps : Kit Elloran
+  maps: {
+    locale: 'en',
+    defaultProjection: 'ASIA',
+    defaultMapStyle: 'BRIGHT',
+    mapStyles: {
+      ANTARCTIC: ['NATURAL', 'BRIGHT', 'DARK'],
+      PLATE_CAREE: ['NATURAL', 'BRIGHT', 'DARK'],
+      MERCATOR: ['NATURAL', 'BRIGHT', 'DARK'],
+    },
   occurrence: {
     occurrenceSearchTabs: ['TABLE', 'GALLERY', 'MAP', 'DATASETS', 'DASHBOARD', 'CLUSTERS'],
     highlightedFilters: ['q', 'country', 'taxonKey', 'year', 'datasetKey', 'occurrenceStatus', 'basisOfRecord'],
