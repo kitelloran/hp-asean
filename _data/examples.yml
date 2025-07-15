@@ -1,0 +1,11 @@
+dashboard: 
+  klass: dashboard
+  title: "Data"
+  description: |
+    Data mobilized by ASEAN Region
+  config: 
+    predicate:
+      type: equals
+      key: networkKey
+      value: a30d7f59-d3d4-4e89-97dc-de9cf837f591
+    charts: [dataQuality, occurrenceSummary, month, taxa, country, iucnCounts, iucn]
