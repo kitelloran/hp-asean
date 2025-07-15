@@ -30,9 +30,9 @@ var siteConfig = {
       ]
     }, // End Occurrence Function
     mapSettings: {
-      lat: 8.731135,
-      lng: 108.499525,
-      zoom: 5
+      lat: 7.979424,
+      lng: 108.486306,
+      zoom: 4
     }
   }
 };
