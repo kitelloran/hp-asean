@@ -7,6 +7,6 @@ dashboard:
     predicate:
       type: equals
       key: networkKey
-      value: af2a0fa1-4c8e-4bdc-8954-b1a55e32b0f1
+      value: 357eb177-72d1-4466-b36a-aecca2543a5f
       # value: a30d7f59-d3d4-4e89-97dc-de9cf837f591
     charts: [dataQuality, occurrenceSummary, month, taxa, country, iucnCounts]
