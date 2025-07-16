@@ -7,10 +7,10 @@ dashboard:
     predicate:
       type: equals
       #key : publisherKey
-      key: networkKey
-      #value: a30d7f59-d3d4-4e89-97dc-de9cf837f591
-      value: 2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6
-      # value: ["BN", "KH", "ID", "LA", "MY", "MM", "PH", "SG", "TH", "VN", "TL"]
+      key: country
+      #value: a30d7f59-d3d4-4e89-97dc-de9cf837f591 - ACB Key
+      # value: 2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6
+      value: ["BN", "KH", "ID", "LA", "MY", "MM", "PH", "SG", "TH", "VN", "TL"]
     charts: [iucnCounts, month, country, dataQuality, occurrenceSummary, taxa]
 
     # Chart Legend Title at Home Page
