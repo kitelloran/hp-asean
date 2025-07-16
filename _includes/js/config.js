@@ -42,7 +42,7 @@ var siteConfig = {
       { 
         type: 'equals', 
         key: 'networkKey', 
-        value: ["BN", "KH", "ID", "LA", "MY", "MM", "PH", "SG", "TH", "VN", "TL"]
+        value: 'BN', 'KH', 'ID', 'LA', 'MY', 'MM', 'PH', 'SG', 'TH', 'VN', 'TL'
       }, 
     //rootPredicate: { type: 'equals', key: 'publisher', value: 'a30d7f59-d3d4-4e89-97dc-de9cf837f591' }, 
     // occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'] // what tabs should be shown
