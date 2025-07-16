@@ -1,6 +1,6 @@
 dashboard: 
   klass: dashboard
-  title: "Data"
+  #title: "Data"
   description: |
     Data mobilized by ASEAN Region
   config: 
