@@ -48,7 +48,7 @@ var siteConfig = {
       "values": ["BN", "KH", "ID", "LA", "MY", "MM", "PH", "SG", "TH", "VN", "TL"]
     }
     END CONFIG */
-    rootPredicate: { type: 'equals', key: 'publisher', value: '2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6' }, 
+    //rootPredicate: { type: 'equals', key: 'publisher', value: '2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6' }, 
     // occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'] // what tabs should be shown
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
   }
