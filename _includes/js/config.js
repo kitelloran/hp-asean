@@ -26,7 +26,12 @@ var siteConfig = {
           "type": "equals",
           "key": "notIssues",
           "value": "COUNTRY_COORDINATE_MISMATCH"
-        }
+        },
+        { 
+          "type": "equals", 
+          "key": "country", 
+          "values": ["BN", "KH", "ID", "LA", "MY", "MM", "PH", "SG", "TH", "VN", "TL"]
+      //}
       ]
     }, // End Occurrence Function
     mapSettings: { // ASEAN Map configurations and zoom level
