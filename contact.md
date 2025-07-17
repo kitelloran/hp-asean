@@ -3,9 +3,9 @@ lang-ref: contact
 title: Contact us
 description:
 
-background: assets/images/Thant Zin_Fisherman.jpg
+background: assets/images/Arturo De Vera Jr_Monfort Bat Sanctuary.jpg
 imageLicense: |
-  Photo by hant Zin, Zooming In on Biodiversity
+  Photo by Arturo De Vera Jr., Zooming In on Biodiversity
 height: 70vh
 ---
 
