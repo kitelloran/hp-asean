@@ -1,4 +1,4 @@
-# Kit Elloran
+Kit Elloran
 
 Director
 
