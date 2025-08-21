@@ -1,6 +1,9 @@
-Kit Elloran
+#Kit Elloran
+
 Director
+
 Biodiversity Informatics and Geospatial Analysis
+
 ASEAN Centre for Biodiversity
 
 [![GBIF Hosted Portal](https://docs.gbif.org/style/gbif-hosted-portal.svg)](https://github.com/gbif/hosted-portals)
