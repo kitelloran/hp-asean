@@ -1,6 +1,7 @@
-ASEAN Centre for Biodiversity
-
+Kit Elloran
+Director
 Biodiversity Informatics and Geospatial Analysis
+ASEAN Centre for Biodiversity
 
 [![GBIF Hosted Portal](https://docs.gbif.org/style/gbif-hosted-portal.svg)](https://github.com/gbif/hosted-portals)
 [![Build Status](https://builds.gbif.org/job/hp-asean/badge/icon)](https://builds.gbif.org/job/hp-asean/lastBuild/console)
@@ -8,7 +9,7 @@ Biodiversity Informatics and Geospatial Analysis
 
 # GBIF Hosted Portal: ASEAN Centre for Biodiversity
 
-This Jekyll website, **[hp-asean](https://asean.hp.gbif-staging.org/)**, makes use of a theme and biodiversity widgets developed by the GBIF network.
+This ASEAN Dashboard website, **[hp-asean](https://asean.hp.gbif-staging.org/)**, makes use of a theme and biodiversity widgets developed by the GBIF network.
 
 You can find information on editing this site and more on [gbif/hosted-portals](https://github.com/gbif/hosted-portals)
 
