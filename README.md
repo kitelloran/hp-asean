@@ -1,4 +1,4 @@
-#Kit Elloran
+# Kit Elloran
 
 Director
 
@@ -10,7 +10,7 @@ ASEAN Centre for Biodiversity
 [![Build Status](https://builds.gbif.org/job/hp-asean/badge/icon)](https://builds.gbif.org/job/hp-asean/lastBuild/console)
 <!-- License badge example: [![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY%2D-SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) -->
 
-# GBIF Hosted Portal: ASEAN Centre for Biodiversity
+# ASEAN Centre for Biodiversity Hosted Portal
 
 This ASEAN Dashboard website, **[hp-asean](https://asean.hp.gbif-staging.org/)**, makes use of a theme and biodiversity widgets developed by the GBIF network.
 
