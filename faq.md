@@ -2,9 +2,9 @@
 lang-ref: faq
 title: FAQ
 description: ASEAN Centre for Biodiversity
-background: /assets/images/Pang Kok Wei_The Elegant Mantises.jpg
+background: assets/images/Daniel Ocampo_Clownfish Mane.jpg
 imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+  Photo by assets/images/Daniel Ocampo, Zooming In on Biodiversity
 height: 70vh
 ---
 

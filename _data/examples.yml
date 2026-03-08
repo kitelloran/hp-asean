@@ -1,0 +1,19 @@
+dashboard: 
+  klass: dashboard
+  #title: "Data"
+  description: |
+    Data mobilised by ASEAN Region
+  config: 
+    predicate:
+      type: equals
+      key: networkKey
+      value: 2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6
+    charts: [iucnCounts, month, country, dataQuality, occurrenceSummary, taxa]
+
+    # Chart Legend Title at Home Page
+    # dataQuality = Data richness
+    # iucnCount = IUCN Global Red List Category
+    # occurrenceSummary = Statistics
+    # month = Month
+    # taxa = 'Default' Taxa
+    # country = Country or area

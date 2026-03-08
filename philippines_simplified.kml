@@ -1,0 +1,71 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark>
+<name>Philippines</name><ExtendedData></ExtendedData>
+  <MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+  <LinearRing><coordinates>126.376,8.413
+126.599,7.705
+126.56,7.189
+126.196,6.274
+125.459,6.141
+124.909,6.539
+124.771,6.752
+125.351,7.591
+125.695,7.837
+126.222,8.226
+126.376,8.413</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<Polygon>
+<outerBoundaryIs>
+  <LinearRing><coordinates>123.548,9.317
+123.145,9.526
+122.99,9.991
+123.23,10.369
+123.841,10.837
+124.447,11.114
+124.891,11.415
+125.302,11.503
+125.502,11.219
+125.227,10.801
+124.449,10.22
+123.548,9.317</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<Polygon>
+<outerBoundaryIs>
+  <LinearRing><coordinates>120.212,11.556
+120.493,12.158
+121.21,12.355
+121.97,12.593
+122.495,12.348
+122.682,11.928
+122.387,11.582
+121.928,11.42
+121.163,11.108
+120.558,11.045
+120.212,11.556</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<Polygon>
+<outerBoundaryIs>
+  <LinearRing><coordinates>121.527,13.187
+122.013,13.636
+122.535,13.784
+123.104,13.437
+123.212,13.038
+122.66,12.384
+122.093,12.002
+121.508,12.28
+121.262,12.632
+121.396,13.006
+121.527,13.187</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<Polygon>
+<outerBoundaryIs>
+  <LinearRing><coordinates>119.92,15.606
+120.558,15.072
+121.004,14.675
+121.515,14.271
+121.903,13.637
+121.225,13.268
+120.728,13.297
+120.225,13.556
+119.789,13.902
+119.727,14.482
+119.805,15.084
+119.92,15.606</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry></Placemark></Document></kml>
