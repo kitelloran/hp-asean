@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: ASEAN Biodiversity Dashboard Species Occurrence # the title of your site should go here
-#title: A+BIGNET # the title of your site should go here
 email: cbelloran@aseanbiodiversity.org
 description: >- # this means to ignore newlines (until baseurl:)
   The ASEAN Biodiversity Dashboard is a regional data platform developed to support the monitoring and 
@@ -29,7 +28,7 @@ description: >- # this means to ignore newlines (until baseurl:)
   The dashboard enables policymakers, researchers, and the public to access key information on species, 
   ecosystems, protected areas, and conservation efforts in the ASEAN region, promoting informed 
   decision-making and regional collaboration.
-baseurl: "" # the subpath of your site, e.g. /blog https://abignet.aseanbiodiversity.org/
+baseurl: "" # the subpath of your site, e.g. /blog 
 url: "https://dashboard-hp.aseanbiodiversity.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
